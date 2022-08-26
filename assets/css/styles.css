@@ -2,17 +2,26 @@
 @import url('https://fonts.googleapis.com/css2?family=David+Libre:wght@400;500;700&family=Lateef&family=Lato:ital,wght@1,300&family=Love+Ya+Like+A+Sister&family=Open+Sans:wght@300&family=Oswald:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=David+Libre:wght@400;500;700&family=Lateef&family=Lato:ital,wght@1,300&family=Love+Ya+Like+A+Sister&family=Open+Sans:wght@300&family=Oswald:wght@300&display=swap');
 
-body {
+* {
     margin: 0;
     padding: 0;
     border: none;
 }
 
+
+body {
+    font-family: 'lato', sans-serif;
+    font-weight: 300;
+    color: #3a3a3a;
+}
+  
+
 h1 {
-    font-family: ;
-    text-transform: ;
-    letter-spacing: 4px;
-    color: ;
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: medium;
+    color: rgba(rgb(255, 251, 0))
 }
 
 #logo {
@@ -29,4 +38,17 @@ h1 {
 
 #logo {
 
+}
+
+/* Forest Video & cover text*/
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url('../') no-repeat center center;
+
+    /* animates zoom effect on loading page */
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
 }
