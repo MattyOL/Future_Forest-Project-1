@@ -8,5 +8,25 @@ body {
     border: none;
 }
 
+h1 {
+    font-family: ;
+    text-transform: ;
+    letter-spacing: 4px;
+    color: ;
+}
+
+#logo {
+    float: center;
+    font-size: 280%;
+    margin-left: 30px;
+}
+
 /* headings and logo */
 
+#menu {
+
+}
+
+#logo {
+
+}
