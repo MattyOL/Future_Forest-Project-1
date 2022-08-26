@@ -42,13 +42,13 @@ h1 {
 
 /* Forest Video & cover text*/
 
-#hero-image {
+#pexels-video {
     height: 600px;
     width: 100%;
-    background: url('../') no-repeat center center;
+    background: url('../assets/css/videos/pexelsvideos.mp4') no-repeat center center;
 
     /* animates zoom effect on loading page */
-    animation-name: hero-zoom;
+    animation-name: pexels-videos-2-mp4;
     animation-duration: 5s;
-    animation-fill-mode: forwards;
+    
 }
