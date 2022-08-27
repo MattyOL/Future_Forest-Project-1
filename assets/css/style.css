@@ -1,0 +1,70 @@
+/* Link to Google Fonts used throughout site */
+@import url('https://fonts.googleapis.com/css2?family=David+Libre:wght@400;500;700&family=Lateef&family=Lato:ital,wght@1,300&family=Love+Ya+Like+A+Sister&family=Open+Sans:wght@300&family=Oswald:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=David+Libre:wght@400;500;700&family=Lateef&family=Lato:ital,wght@1,300&family=Love+Ya+Like+A+Sister&family=Open+Sans:wght@300&family=Oswald:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: 'lato', sans-serif;
+    font-weight: 300;
+    color: #3a3a3a;
+}
+  
+nav {
+    background: #3a3a3a;
+    height: 80px;
+    width: 100%;
+}
+
+.logo {
+    color: green;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: bold;
+
+}
+
+nav ul {
+    float: right;
+    margin-right: 20px;
+}
+
+nav ul li {
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+
+nav ul li a {
+    color: green;
+    font-size: 20px;
+    text-transform: uppercase;
+    
+    border-radius: 3px;
+    padding: 7px 13px;
+}
+
+a:hover {
+    background: white;
+    transition: .5s;
+}
+
+ul li {
+    word-spacing: 5px;
+}
+
+.iconbtn {
+    font-size: 30px;
+    color:white
+    float: right;
+    line-height: 80px;
+}
