@@ -15,11 +15,11 @@
 body {
     font-family: 'lato', sans-serif;
     font-weight: 300;
-    color: #3a3a3a;
+    color: rgba(6, 79, 36, 0.7):
 }
   
 nav {
-    background: #3a3a3a;
+    background: rgba(19, 20, 18, 0.71);
     height: 85px;
     width: 100%;
 }
@@ -55,12 +55,12 @@ nav ul li a {
 }
 
  a:hover {
-    background: white;
-    transition: .5s;
+    background: rgba(30, 111, 28, 0.8);
+    transition: .1s;
 }
 
 ul li {
-    word-spacing: 5px;
+    word-spacing: 7px;
 }
 
 /* Hero image and cover text */
@@ -79,28 +79,33 @@ ul li {
 }
 
 #hero-image {
-    height: 600px;
+    height: 100%;
     width: 100%;
+    background-size: cover;
     background: url('../css/videos/pexels-matthew-montrone-1179229.jpg') no-repeat center center;
 
 } 
 
 
 #cover-text {
-    font-size: 130%;
-    font-family: oswald, sans-serif;
+    font-size: 150%;
+    font-family: 'oswald', sans-serif;
     text-transform: uppercase;
-    letter-spacing: 8px;
+    letter-spacing: 6px;
     width: 300px;
     height: 200px;
-    padding-top: 40px;
-    padding-left: 10px;
-    background-color: #3a3a3a;
-    bottom: 30px;
-    right: 150px;
+    padding-top: 30px;
+    padding-left: 6px;
+    background-color: rgba(19, 20, 18, 0.71);
+    bottom: 60px;
+    right: 50%;
+    left: 50%;
     position: absolute;
-
+    text-align: center;
+    
 }
+
+
 
 
 
