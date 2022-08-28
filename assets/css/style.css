@@ -117,17 +117,20 @@ ul li {
 
 #text-center {
     text-align: center;
-    background-color: ;
+    background-color: rgb(61, 77, 61);
+    width: 100%;
+    margin: 5px 0;
 }
 
 #about-us h2 {
     font-size: 2em;
     color: white;
+   
 }
 #about-us p {
     padding: 0 100x;
-    left: 40%;
-    color: #fff;
+    color: white;
+    font-size: 1em;
 }
 
 #text-center hr {
@@ -140,6 +143,24 @@ ul li {
     color: white;
     font-size: 2rem;
 }
+#future-us p {
+    font-size: 1rem;
+    color: white;
+}
+
+/* Donating section */
+
+#donate-us {
+    font-size: 2rem;
+    color: white;
+}
+
+#donate-us p {
+    text-align: center;
+    font-size: 1rem;
+    color: white;
+}
+
 
 
 
