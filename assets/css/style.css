@@ -15,12 +15,12 @@
 body {
     font-family: 'lato', sans-serif;
     font-weight: 300;
-    color: #3a3a3a;
+
     background-color: rgb(61, 77, 61);
 }
   
 nav {
-    background: #3a3a3a;
+    background: rgb(61, 77, 61);
     height: 90px;
     width: 100%;
 }
@@ -107,7 +107,7 @@ ul li {
     padding-top: 30px;
     padding-left: 6px;
     background-color: rgba(19, 20, 18, 0.71);
-    bottom: 0px;
+    bottom: 100px;
     left: 40%;
     position: absolute;
     text-align: center;
@@ -169,6 +169,10 @@ ul li {
     color: white;
 }
 
+#donate-us hr {
+    height:  100px; 
+}
+
 
 
 
@@ -204,5 +208,5 @@ footer {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
-    color: #3a3a3a;
+    color: white;
 }
