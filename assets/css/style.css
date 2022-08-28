@@ -113,6 +113,34 @@ ul li {
     
 }
 
+/* About/ Future section */
+
+#text-center {
+    text-align: center;
+    background-color: ;
+}
+
+#about-us h2 {
+    font-size: 2em;
+    color: white;
+}
+#about-us p {
+    padding: 0 100x;
+    left: 40%;
+    color: #fff;
+}
+
+#text-center hr {
+    border-top: 1px solid #3a3a3a;
+    width: 100%;
+    margin: 5px 0;
+}
+
+#future-us h3 {
+    color: white;
+    font-size: 2rem;
+}
+
 
 
 
