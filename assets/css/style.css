@@ -172,15 +172,58 @@ ul li {
 }
 
 
-/* Sign Up Detail*/
+/* Sign Up Detail section on idex.html*/
 
 
 #sign-up {
     text-align: center;
     color: white;
 }
+ 
+/* Form sign.html*/
+.form-section {
+    clear: left;
+    background: url('../css/images/TreePlanted.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+    color: white;
+}
 
+.signup-form > h2 {
+    color: #fafafa;
+    margin-bottom: 20px;
+}
 
+.text-input {
+    background: transparent;
+    color: #fafafa;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+}
+
+.text-input:hover {
+    border-color: green;
+}
+
+.join-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: rgba(19, 20, 18, 0.71);
+    color: #fafafa;
+    display: block;
+}
+
+.join-button:hover {
+    background-color: green;
+    color: white;
+}
 
 
 
