@@ -237,14 +237,14 @@ footer {
     height: 150px; 
 }
 
-.social-networks {
+.apps-icons {
     text-align: center;
 }
 
-.social-networks > li {
+.apps-icons > li {
     display: inline;
 }
-.social-networks i {
+.apps-icons i {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
