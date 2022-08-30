@@ -34,11 +34,24 @@
         </nav>
     </header>
 
-    <section>
-        sign up
+    <section class="form-section">
+        <form method="POST" class="signup-form">
+            
+            <h2> Let's get you signed up now !</h2>
+            
+            <label type="fname" for="fname">First Name</label>
+            <input type="text" id="fname" name="first_name" required>
+            
+            <label type="lname" for="lname">Last Name</label>
+            <input type="text" id="lname" name="last_name" required>
+            
+            <label type="email" for="email">Email Address</label>
+            <input type="email" id="email" name="email_address" required>
+            
         
+            <input type="submit" value="Let's Grow">
+        </form>
     </section>
-    
     <footer>
         <ul class="social-networks">
                 <li><a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook"></i></a></li>

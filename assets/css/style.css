@@ -87,8 +87,9 @@ ul li {
     height: 100%;
     width: 100%;
     background-size: cover;
-    background: url('../css/videos/pexels-matthew-montrone-1179229.jpg') no-repeat center center;
-
+    background: url('../css/images/pexels-matthew-montrone-1179229.jpg') no-repeat center center;
+    background-position: center;
+    height: 900px;
 } 
 
 
@@ -177,6 +178,31 @@ ul li {
     color: white;
 }
  
+/* Form - section */
+
+.form-section {
+    clear: left;
+    background: url('../css/images/1.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
+
+.signup-form {
+    margin: 150px 10% 0 0;
+    color: #fff;
+    background-color:  rgba(19, 20, 18, 0.71);
+    max-width: 400px;
+    position: absolute;
+    left: 10%;
+    padding: 30px;
+}
+
+.signup-form > h2 {
+    color: #fafafa;
+    margin-bottom: 20px;
+}
+
 
 
 
