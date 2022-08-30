@@ -190,11 +190,11 @@ ul li {
 
 .signup-form {
     margin: 250px 10% 0 0;
-    color: #fff;
+    color: white;
     background-color:  rgba(19, 20, 18, 0.71);
     max-width: 800px;
     position: absolute;
-    left: 10%;
+    left: 5%;
     padding: 30px;
 }
 
