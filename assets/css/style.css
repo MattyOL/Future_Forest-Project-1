@@ -189,7 +189,7 @@ ul li {
 }
 
 .signup-form {
-    margin: 250px 10% 0 0;
+    margin: 350px 10% 0 0;
     color: white;
     background-color:  rgba(19, 20, 18, 0.71);
     max-width: 800px;
@@ -199,8 +199,10 @@ ul li {
 }
 
 .signup-form > h2 {
-    color: #fafafa;
-    margin-bottom: 20px;
+    color: white;
+    margin-bottom: 30px;
+    text-align: left;
+    
 }
 
 .text-input:hover {
