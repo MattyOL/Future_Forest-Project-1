@@ -9,13 +9,13 @@ python3 /* Link to Google Fonts used throughout site */
     text-decoration: none;
     list-style: none;
     box-sizing: border-box;
+    
 }
 
 
 body {
     font-family: 'lato', sans-serif;
     font-weight: 300;
-
     background-color: rgb(61, 77, 61);
 }
   
@@ -172,7 +172,7 @@ ul li {
 }
 
 
-/* Sign Up Detail section on idex.html*/
+/* Sign Up Detail section*/
 
 
 #sign-up {
@@ -180,9 +180,6 @@ ul li {
     color: white;
 }
  
-
-
-
 
 
 
