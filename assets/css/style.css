@@ -178,7 +178,7 @@ ul li {
     height:  100px; 
 }
 
-/* Gallery slider & Youttube video*/
+/* Gallery slider */
 #slider {
     font-family: 'Helvetica Neue', sans-serif;
     perspective: 1400px;
@@ -276,6 +276,15 @@ input[type=radio]:checked {
   box-shadow: 0 1px 4px rgba(0,0,0, 0.4);
   transform: translate3d(-40%, 0, -250px);
 }
+/* Youtube playable video 
+
+#video-section {
+  float: right 50%;
+}
+*/
+
+
+
 /* Sign Up Detail section*/
 
 
