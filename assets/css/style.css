@@ -16,7 +16,8 @@ body {
     font-weight: 300;
     background-color: rgb(61, 77, 61);
 }
-  
+/* Logo , Nav Bar */  
+
 nav {
     background: rgb(61, 77, 61);
     height: 80px;
@@ -78,11 +79,6 @@ ul li {
     transition-delay: 2s;
 }
 
-#cover-text,
-#cover-text h2 {
-    color: #fff;
-}
-
 #hero-image { 
     width: 100vw;
     height: 100vh;
@@ -96,7 +92,10 @@ ul li {
     
 } 
 
-
+#cover-text,
+#cover-text h2 {
+    color: #fff;
+}
 
 #cover-text {
     font-size: 150%;
@@ -129,6 +128,7 @@ ul li {
     color: white;
    
 }
+
 #about-us a {
     color: white;
 }
@@ -138,6 +138,7 @@ ul li {
     color: white;
     font-size: 1em;
 }
+
 /* Middle-Section */
 
 #middle-section {
@@ -149,6 +150,7 @@ ul li {
     font-size: 2rem;
     text-align: center;
 }
+
 #future-us p {
     font-size: 1rem;
     color: white;
@@ -190,7 +192,6 @@ ul li {
     margin: 150px auto;
 }
    
-
 input[type=radio] {
     top: 108%;
     left: 50%;
@@ -213,25 +214,25 @@ input[type=radio]:checked {
 
 #slider label,
 #slider label img {
+    width: 100%;
+    height: 100%;
+    color: white;
     font-weight: bold;
     border-radius: 3px;
     justify-content: center;
     position: absolute;
     left: 0;
     top: 0;
-    width: 100%;
-    height: 100%;
-    color: white;
     font-size: 70px;
     transition: transform 400ms ease;
     cursor: pointer;
     display: flex;
     align-items: center;
-  }
+}
 
 input[type=radio]:checked {
     opacity: 1;
-  }
+}
 
 #s1:checked ~ #slide1,
 #s2:checked ~ #slide2,
@@ -240,7 +241,7 @@ input[type=radio]:checked {
 #s5:checked ~ #slide5 {
     box-shadow: 0 13px 26px rgba(0,0,0, 0.3), 0 12px 6px rgba(0,0,0, 0.2);
     transform: translate3d(0%, 0, 0px);
- }
+}
 
 #s1:checked ~ #slide2,
 #s2:checked ~ #slide3,
@@ -278,7 +279,6 @@ input[type=radio]:checked {
     transform: translate3d(-20%, 0, -100px);
 }
 
-
 /* Youtube playable video */ 
 
 #video-container {
@@ -288,7 +288,7 @@ input[type=radio]:checked {
     position: relative;
     align-content: center;
     
- }
+}
 
  #video-container iframe {
     position: absolute;
@@ -296,9 +296,7 @@ input[type=radio]:checked {
     height: 90%;
     align-content: center;
     
- }
-
-
+}
 
 /* Sign Up Detail section*/
  
@@ -345,12 +343,6 @@ input[type=radio]:checked {
 .grow-button:hover {
     background-color: green;
 }
-
-
-
-
-
-
 
 /* footer */
 
