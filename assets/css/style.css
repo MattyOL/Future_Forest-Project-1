@@ -71,15 +71,15 @@ ul li {
 
 /* Hero image and cover text */
 
-#hero-outer {
+#home-outer {
     height: 600px;
     width: 100%;
     overflow: hidden;
     position: relative;
-    transition-delay: 2s;
+    
 }
 
-#hero-image { 
+#home-image { 
     width: 100vw;
     height: 100vh;
     object-fit: cover;
