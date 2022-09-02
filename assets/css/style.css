@@ -148,9 +148,7 @@ ul li {
    
 }
 
-#about-us h3 {
-    color: white;
-}
+
 
 #about-us a {
     color: white;
@@ -160,6 +158,30 @@ ul li {
     padding: 0 100x;
     color: white;
     font-size: 1em;
+}
+/* Deforest */
+
+#deforest {
+    display: flex;
+    height: 300px;
+    justify-content: flex-start;
+    padding-bottom: 20px;
+    padding-top: 30px;
+    padding-left:50px;
+    padding-right: 50px;
+    background-color: rgba(19, 20, 18, 0.71);
+    width:  600px;
+    height: 150px;
+    margin: auto;
+    text-align: center;
+    
+}
+#deforest h3 {
+    color: white;
+    text-align: center;
+}
+#deforest p {
+    color: white;
 }
 
 /* Middle-Section */
