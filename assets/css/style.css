@@ -122,19 +122,21 @@ ul li {
     height: 300px;
     justify-content: flex-start;
     
+    
 }
 
 
 
 #about-us {
     width:  400px;
-    height: 400px;
+    height: 250px;
     margin: auto;
-    padding-top: 50px;
-    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 30px;
+    padding-left:50px;
     padding-right: 50px;
     background-color: rgba(19, 20, 18, 0.71);
-
+    text-align: center;
 } 
 
 
@@ -144,6 +146,10 @@ ul li {
     font-size: 2em;
     color: white;
    
+}
+
+#about-us h3 {
+    color: white;
 }
 
 #about-us a {
