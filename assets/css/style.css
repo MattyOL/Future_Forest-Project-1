@@ -69,7 +69,7 @@ ul li {
     word-spacing: 7px;
 }
 
-/* Hero image and cover text */
+/* Home Video and cover text */
 
 #home-outer {
     height: 600px;
@@ -116,14 +116,31 @@ ul li {
 
 /* About-section */
 
-#text-center {
-    text-align: center;
-    width: 100%;
-    height:  500px;
-    margin: 5px 0;
+
+.container {
+    display: flex;
+    height: 300px;
+    justify-content: flex-start;
+    
 }
 
+
+
+#about-us {
+    width:  400px;
+    height: 400px;
+    margin: auto;
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 50px;
+    background-color: rgba(19, 20, 18, 0.71);
+
+} 
+
+
+
 #about-us h2 {
+    text-align: center;
     font-size: 2em;
     color: white;
    
