@@ -124,9 +124,16 @@ ul li {
     
     
 }
+ 
+#about-us {
+    border-radius: 15px 50px 30px 5px;
+    background: #73AD21;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
 
-
-
+/*
 #about-us {
     width:  400px;
     height: 250px;
@@ -137,7 +144,7 @@ ul li {
     padding-right: 50px;
     background-color: rgba(19, 20, 18, 0.71);
     text-align: center;
-} 
+} */
 
 
 
