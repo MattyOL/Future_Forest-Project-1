@@ -119,32 +119,24 @@ ul li {
 
 .container {
     display: flex;
-    height: 300px;
-    justify-content: flex-start;
+    justify-content: center;
     
     
 }
  
 #about-us {
-    border-radius: 15px 50px 30px 5px;
-    background: #73AD21;
+    border-radius: 20px;
+    background: rgba(19, 20, 18, 0.71);
     padding: 20px;
-    width: 200px;
-    height: 150px;
-}
-
-/*
-#about-us {
-    width:  400px;
-    height: 250px;
-    margin: auto;
-    padding-bottom: 20px;
-    padding-top: 30px;
-    padding-left:50px;
-    padding-right: 50px;
-    background-color: rgba(19, 20, 18, 0.71);
+    width: 400px;
+    height: 180px;
+    padding-top: 20px;
     text-align: center;
-} */
+    
+
+} 
+
+
 
 
 
@@ -169,19 +161,15 @@ ul li {
 /* Deforest */
 
 #deforest {
-    display: flex;
-    height: 300px;
-    justify-content: flex-start;
-    padding-bottom: 20px;
-    padding-top: 30px;
-    padding-left:50px;
-    padding-right: 50px;
-    background-color: rgba(19, 20, 18, 0.71);
-    width:  600px;
-    height: 150px;
-    margin: auto;
+    border-radius: 20px;
+    background: rgba(19, 20, 18, 0.71);
+    padding: 20px;
+    width: 400px;
+    height: 180px;
+    padding-top: 20px;
     text-align: center;
-    
+    margin: auto;
+
 }
 #deforest h3 {
     color: white;
@@ -195,6 +183,15 @@ ul li {
 
 #middle-section {
     height: 600px;
+    border-radius: 20px;
+    background: rgba(19, 20, 18, 0.71);
+    padding: 20px;
+    width: 400px;
+    height: 180px;
+    padding-top: 20px;
+    text-align: center;
+    margin: auto;
+
 }
 
 #future-us h3 {
@@ -213,6 +210,15 @@ ul li {
 
 #bottom-section {
     height: 300px;
+    height: 600px;
+    border-radius: 20px;
+    background: rgba(19, 20, 18, 0.71);
+    padding: 20px;
+    width: 900px;
+    height: 350px;
+    padding-top: 20px;
+    text-align: center;
+    margin: auto; 
 }
 
 
