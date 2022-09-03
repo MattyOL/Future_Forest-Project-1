@@ -132,8 +132,6 @@ ul li {
     height: 180px;
     padding-top: 20px;
     text-align: center;
-    
-
 } 
 
 
@@ -174,6 +172,8 @@ ul li {
 #deforest h3 {
     color: white;
     text-align: center;
+
+    font-size: 1.5rem;
 }
 #deforest p {
     color: white;
@@ -237,6 +237,8 @@ ul li {
 #donate-us hr {
     height:  100px; 
 }
+
+
 
 /* Gallery slider */
 
@@ -359,8 +361,16 @@ input[type=radio]:checked {
 /* Sign Up Detail section*/
  
 #sign-up {
-    text-align: center;
     color: white;
+    height: 600px;
+    border-radius: 20px;
+    background: rgba(19, 20, 18, 0.71);
+    padding: 20px;
+    width: 400px;
+    height: 100px;
+    padding-top: 20px;
+    text-align: center;
+    margin: auto;
 }
 
 #sign-up a {
