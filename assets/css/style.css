@@ -121,7 +121,7 @@ ul li {
 
 .container {
     display: flex;
-    justify-content: center;
+    justify-content: ;
     
     
 }
@@ -136,14 +136,14 @@ ul li {
     text-align: center;
 } 
 
-.group-plant  {
+.group-plant {
     border-radius: 20px;
     background: rgba(19, 20, 18, 0.71);
     padding: 20px;
     width: 400px;
     height: 180px;
     padding-top: 20px;
-    text-align
+    
 }
 
 
@@ -167,28 +167,11 @@ ul li {
     color: white;
     font-size: 1em;
 }
+
+
 /* Deforest */
 
-#deforest {
-    border-radius: 20px;
-    background: rgba(19, 20, 18, 0.71);
-    padding: 20px;
-    width: 400px;
-    height: 180px;
-    padding-top: 20px;
-    text-align: center;
-    margin: auto;
 
-}
-#deforest h3 {
-    color: white;
-    text-align: center;
-
-    font-size: 1.5rem;
-}
-#deforest p {
-    color: white;
-}
 
 /* Middle-Section 
 
