@@ -116,12 +116,40 @@ ul li {
     
 }
 
-/* About-section */
+.section {
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgba(19, 20, 18, 0.71);
+}
+
+.container {
+    width: 80%;
+    display: block;
+    margin: auto;
+    padding-top: 100px;
+}
+
+.content-section {
+    float: left;
+    width: 55%;
+}
+
+.image-section {
+   float: right; 
+   width: 40%;
+}
+
+.image-section img{
+    width: 100%;
+    height: auto;
+}
+
+/* About-section
 
 
 .container {
     display: flex;
-    justify-content: ;
+    justify-content: center;
     
     
 }
@@ -166,14 +194,14 @@ ul li {
     padding: 0 100x;
     color: white;
     font-size: 1em;
-}
+} */
 
 
 /* Deforest */
 
 
 
-/* Middle-Section 
+/* Middle-Section */
 
 #middle-section {
     height: 600px;
@@ -198,7 +226,7 @@ ul li {
     font-size: 1rem;
     color: white;
     text-align: center;
-}*/
+}
 
 /* Donating section */
 
