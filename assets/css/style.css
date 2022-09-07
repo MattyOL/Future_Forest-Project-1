@@ -130,6 +130,7 @@ ul li {
 }
 .mytabs label {
     color: white;
+    
 }
 .mytabs input[type="radio"] {
     display: none;
@@ -139,6 +140,7 @@ ul li {
     background: grey;
     font-weight: bold;
     border-radius: 10px;
+    align-content: center;
 }
 
 .mytabs  .tab {
@@ -161,6 +163,31 @@ ul li {
 .mytabs input[type="radio"]:checked + label {
     background: rgba(30, 111, 28, 0.8);
 }
+/* Images home*/
+
+.col-1 img {
+    width:  33.5%;
+    float: left;
+    border: 20px;
+}
+
+
+.col-2 img {
+    float: center;
+    width: 33.5%;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.col-3 img {
+    width: 33.5%;
+    float: right;
+    border-radius: 10px;
+}
+
+
+
+
 
 /* Donating section */
 
