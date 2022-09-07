@@ -13,6 +13,7 @@
 body {
     font-family: 'lato', sans-serif;
     font-weight: 300;
+    
 }
 /* Logo , Nav Bar */  
 
@@ -23,7 +24,7 @@ nav {
 }
 
 .logo {
-    color: white;
+    color: pink;
     font-size: 50px;
     line-height: 80px;
     padding: 0 100px;
@@ -114,13 +115,39 @@ ul li {
 
 /* About Us Section */
 
-.about {
-    background-color: rgba(19, 20, 18, 0.71);
+.mytabs {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 25px;
+}
+.mytabs input[type="radio"] {
+    display: none;
+}
+.mytabs label {
+    padding: 25px;
+    background: #e2e2e2;
+    font-weight: bold;
 }
 
-.about img {
-   height: 250px;
+.mytabs .tab {
+    width: 100%;
+    padding: 20px;
+    background: white;
+    order: 1;
+    display: none;
 }
+.mytabs .tab h2 {
+    font-size: 3em;
+}
+
+.mytabs input[type='radio']:checked + label + .tab {
+    display: block;
+}
+
+.mytabs input[type="radio"]:checked + label {
+    background: #fff;
 
 
 
@@ -131,7 +158,7 @@ ul li {
 /* Gallery slider */
 
 #slider {
-    font-family: 'Helvetica Neue', sans-serif;
+    font-family: 'Helvetica Neue', 'sans-serif';
     perspective: 1400px;
     transform-style: preserve-3d;
     position: relative;
