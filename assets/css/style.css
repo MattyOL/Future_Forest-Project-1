@@ -13,7 +13,6 @@
 body {
     font-family: 'lato', sans-serif;
     font-weight: 300;
-    background-color: rgb(61, 77, 61);
 }
 /* Logo , Nav Bar */  
 
@@ -113,9 +112,15 @@ ul li {
     
 }
 
-/*  */
+/* About Us Section */
 
+.about {
+    background-color: rgba(19, 20, 18, 0.71);
+}
 
+.about img {
+   height: 250px;
+}
 
 
 
