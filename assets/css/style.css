@@ -113,95 +113,15 @@ ul li {
     
 }
 
-/* About-section */
-
-
-.container {
-    display: flex;
-    height: 300px;
-    justify-content: center;
-    
-    
-}
+/*  */
 
 
 
-#about-us {
-    width:  400px;
-    height: 250px;
-    margin: auto;
-    padding-bottom: 20px;
-    padding-top: 30px;
-    padding-left:50px;
-    padding-right: 50px;
-    background-color: rgba(19, 20, 18, 0.71);
-    text-align: center;
-    margin: auto;
-} 
 
 
 
-#about-us h2 {
-    text-align: center;
-    font-size: 2em;
-    color: white;
-   
-}
-
-#about-us h3 {
-    color: white;
-}
-
-#about-us a {
-    color: white;
-}
-
-#about-us p {
-    padding: 0 100x;
-    color: white;
-    font-size: 1em;
-}
-
-/* Middle-Section */
-
-#middle-section {
-    height: 600px;
-}
-
-#future-us h3 {
-    color: white;
-    font-size: 2rem;
-    text-align: center;
-}
-
-#future-us p {
-    font-size: 1rem;
-    color: white;
-    text-align: center;
-}
-
-/* Donating section */
-
-#bottom-section {
-    height: 300px;
-}
 
 
-#donate-us {
-    text-align: center;
-    font-size: 2rem;
-    color: white;
-}
-
-#donate-us p {
-    text-align: center;
-    font-size: 1rem;
-    color: white;
-}
-
-#donate-us hr {
-    height:  100px; 
-}
 
 /* Gallery slider */
 
