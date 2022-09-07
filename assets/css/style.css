@@ -165,24 +165,31 @@ ul li {
 }
 /* Images home*/
 
+.row {
+    width: fit-content;
+
+}    
+
 .col-1 img {
-    width:  33.5%;
+    width:  30%;
     float: left;
-    border: 20px;
+    border-radius: 20px;
+    padding: 10px;
 }
 
 
 .col-2 img {
     float: center;
-    width: 33.5%;
+    width: 40%;
     border-radius: 20px;
-    padding: 5px;
+    padding: 10px;
 }
 
 .col-3 img {
-    width: 33.5%;
     float: right;
-    border-radius: 10px;
+    width: 30%;
+    border-radius: 20px;
+    padding: 10px;
 }
 
 
