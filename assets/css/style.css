@@ -13,6 +13,7 @@
 body {
     font-family: 'lato', sans-serif;
     font-weight: 300;
+    background-color: rgb(61, 77, 61);
     
 }
 /* Logo , Nav Bar */  
@@ -24,7 +25,7 @@ nav {
 }
 
 .logo {
-    color: pink;
+    color: white;
     font-size: 50px;
     line-height: 80px;
     padding: 0 100px;
@@ -113,7 +114,7 @@ ul li {
     
 }
 
-/* About Us Section */
+/* About Us  */
 
 .mytabs {
     display: flex;
@@ -122,24 +123,31 @@ ul li {
     margin: 50px auto;
     padding: 25px;
 }
+.mytabs p {
+    color: white;
+}
+.mytabs label {
+    color: white;
+}
 .mytabs input[type="radio"] {
     display: none;
 }
 .mytabs label {
     padding: 25px;
-    background: #e2e2e2;
+    background: grey;
     font-weight: bold;
 }
 
-.mytabs .tab {
+.mytabs  .tab {
     width: 100%;
     padding: 20px;
-    background: white;
+    background: rgba(19, 20, 18, 0.71);
     order: 1;
     display: none;
 }
 .mytabs .tab h2 {
-    font-size: 3em;
+    font-size: 1.5em;
+    color: white;
 }
 
 .mytabs input[type='radio']:checked + label + .tab {
@@ -147,9 +155,40 @@ ul li {
 }
 
 .mytabs input[type="radio"]:checked + label {
-    background: #fff;
+    background: rgba(30, 111, 28, 0.8);
+}
+
+/* Donating section */
+
+#bottom-section {
+    height: 300px;
+    height: 600px;
+    border-radius: 20px;
+    background: rgba(19, 20, 18, 0.71);
+    padding: 20px;
+    width: 900px;
+    height: 350px;
+    padding-top: 20px;
+    text-align: center;
+    margin: auto; 
+}
 
 
+#donate-us {
+    text-align: center;
+    font-size: 2rem;
+    color: white;
+}
+
+#donate-us p {
+    text-align: center;
+    font-size: 1rem;
+    color: white;
+}
+
+#donate-us hr {
+    height:  100px; 
+}
 
 
 
@@ -158,7 +197,7 @@ ul li {
 /* Gallery slider */
 
 #slider {
-    font-family: 'Helvetica Neue', 'sans-serif';
+    font-family: 'Helvetica Neue', sans-serif;
     perspective: 1400px;
     transform-style: preserve-3d;
     position: relative;
@@ -276,8 +315,16 @@ input[type=radio]:checked {
 /* Sign Up Detail section*/
  
 #sign-up {
-    text-align: center;
     color: white;
+    height: 600px;
+    border-radius: 20px;
+    background: rgba(19, 20, 18, 0.71);
+    padding: 20px;
+    width: 400px;
+    height: 100px;
+    padding-top: 20px;
+    text-align: center;
+    margin: auto;
 }
 
 #sign-up a {
