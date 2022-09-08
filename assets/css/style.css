@@ -8,8 +8,6 @@
     
 }
 
-
-
 body {
     font-family: 'lato', sans-serif;
     font-weight: 300;
@@ -191,14 +189,6 @@ ul li {
     padding: 10px;
 }
 
-
-
-
-
-
-
-
-
 /* Donating section */
 
 #bottom-section {
@@ -213,7 +203,6 @@ ul li {
     text-align: center;
     margin: auto; 
 }
-
 
 #donate-us {
     text-align: center;
@@ -231,9 +220,7 @@ ul li {
     word-spacing: 10px;
 }
 
-
 /* Gallery slider */
-
 
 #slider {
     font-family: 'Helvetica Neue', sans-serif;
