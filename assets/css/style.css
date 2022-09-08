@@ -90,7 +90,6 @@ ul li {
     top: 0;
     bottom: 0;
     z-index: -1;
-    
 } 
 
 #cover-text,
@@ -165,9 +164,10 @@ ul li {
 }
 /* Images home*/
 
-.row {
-    width: fit-content;
-
+.row::after {
+    content: "";
+    display: table;
+    clear: both;
 }    
 
 .col-1 img {
@@ -176,21 +176,23 @@ ul li {
     border-radius: 20px;
     padding: 10px;
 }
-
-
 .col-2 img {
-    float: center;
+    float: right;
     width: 40%;
     border-radius: 20px;
     padding: 10px;
 }
-
 .col-3 img {
     float: right;
     width: 30%;
     border-radius: 20px;
+    height: 310px;
     padding: 10px;
 }
+
+
+
+
 
 
 
@@ -407,6 +409,7 @@ input[type=radio]:checked {
 .grow-button:hover {
     background-color: green;
 }
+
 
 /* footer */
 
