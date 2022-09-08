@@ -175,6 +175,7 @@ ul li {
     float: left;
     border-radius: 20px;
     padding: 10px;
+    height: 310px;
 }
 .col-2 img {
     float: right;
@@ -207,7 +208,7 @@ ul li {
     background: rgba(19, 20, 18, 0.71);
     padding: 20px;
     width: 900px;
-    height: 350px;
+    height: 300px;
     padding-top: 20px;
     text-align: center;
     margin: auto; 
@@ -227,18 +228,12 @@ ul li {
 }
 
 #donate-us hr {
-    height:  100px; 
+    word-spacing: 10px;
 }
-
-
-
 
 
 /* Gallery slider */
-hr {
-    color: grey;
-    border-top: 5px;
-}
+
 
 #slider {
     font-family: 'Helvetica Neue', sans-serif;
