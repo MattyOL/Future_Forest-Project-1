@@ -6,14 +6,22 @@ The aim of the project is to build an easily navigatable, responsive website usi
 
 Prototype"s of all pages 
 
+Gallery Page
+
+<img width="592" alt="Screen Shot 2022-09-09 at 15 50 26" src="https://user-images.githubusercontent.com/111317260/189379167-b4d0311f-d63d-4165-ac60-54409758081c.png">
 
 
+ Logo & Navigation Bar
+ 
+<img width="872" alt="Screen Shot 2022-09-09 at 15 51 27" src="https://user-images.githubusercontent.com/111317260/189379225-7b028dcc-0c06-4a24-a88e-358726dec42d.png">
 
+Footer Section
 
+<img width="868" alt="Screen Shot 2022-09-09 at 15 51 00" src="https://user-images.githubusercontent.com/111317260/189379237-b518195b-a64a-4814-8009-3a79dda00424.png">
 
+Sign Up Page 
 
-
-
+<img width="872" alt="Screen Shot 2022-09-09 at 15 58 12" src="https://user-images.githubusercontent.com/111317260/189380312-71147d31-a5c7-4acb-a66b-a6e67c72495d.png">
 
 
 
