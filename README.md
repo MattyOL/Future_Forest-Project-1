@@ -4,11 +4,10 @@ This is a website For Eco friendly enthusiast's,a small newly non-profit organis
 
 The aim of the project is to build an easily navigatable, Responsive website using HTML and CSS.
 
-# Prototype's of all pages  
-
 # Prototype site 
 Justinmind.com was used to make the prototype at the beginning
 
+# Prototype's of all pages  
 Home-page
 
 Gallery-Page
@@ -61,7 +60,7 @@ The footer displays across every page of the site and displays social media icon
 # Homepage
 This is the landing page that the user will be brought to when first entering the site.
 
-# Homepage
+Homepage
 
 <img width="1423" alt="Screen Shot 2022-09-09 at 16 47 54" src="https://user-images.githubusercontent.com/111317260/189390583-e18eb59a-3c45-41ee-b405-2d1971a89788.png">
 
@@ -73,27 +72,27 @@ This is the landing page that the user will be brought to when first entering th
 # About Us
 This page allows the user to get a look into the background of the reason why it started & its ambitions.
 
-# About Us Page
+About Us Page
 
 # Gallery
 This is were you can find our photographers 4k photos taken from pexels.com , The code was taken from 3wschools.com to make the slide show responsive with a few sliht changes to fit the site.
 
-# Gallery slide Responsive
+Gallery slide Responsive
 
 <img width="1364" alt="Screen Shot 2022-09-09 at 16 51 20" src="https://user-images.githubusercontent.com/111317260/189390888-a79041ab-3566-4bd0-990e-d84058cf6ff2.png">
 
 # Gallery Embedded video
 This is located under the slide show image on the Gallery ,to show the true beauty of our forest & wildlife in a 4K video .The Video was taken from Youtube and is play/stop/mute for user preference when clicked.
 
-# Gallery Embedded Video
+Gallery Embedded Video
 
 <img width="1426" alt="Screen Shot 2022-09-09 at 17 11 39" src="https://user-images.githubusercontent.com/111317260/189394637-73871070-c0a6-4e40-8801-1c258c0b62aa.png">
 
-# signup form 
+# Signup Form 
 This is weere the user will sin up and the verificaton email will be sent to them to make a password, and then they be able to Donate/Volunteer.
 
 
-# Signup Form
+Signup Form
 
 <img width="1404" alt="Screen Shot 2022-09-09 at 16 53 02" src="https://user-images.githubusercontent.com/111317260/189391271-f19262c6-c4aa-4417-befb-764c5cc4cca7.png">
 
