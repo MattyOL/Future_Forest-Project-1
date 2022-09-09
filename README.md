@@ -50,7 +50,7 @@ Logo and Navigation Bar
 
 
 The Main video of home-page
-The home-page video is only located on the landing page when the user first enters the site. 
+The home-page video is only located on the landing page when the user first enters the site. play/stop fixed to user preference. located when hover over bottom right of video 
 
 
 
@@ -66,7 +66,7 @@ Homepage
 
 
 
-Testimonials
+
 
 Menu Page
 
