@@ -42,9 +42,8 @@ I used rgbacolorpicker.com to choose a color that would be easily readable and v
 
 
 # Typography
+
 I used Google Fonts to select and import the fonts that were used on the site.
--
--
 
 
 # Features
