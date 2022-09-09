@@ -1,10 +1,10 @@
 # Future_Forest / my-first-project1
 
-This is a website For Eco friendly enthusiast's a small newly non-profit organisation indepented group trying to make a big impact to deforestation globally. The goal for the company is too spread awarness and too create eco friendly areas for our future to come by recieving donation's & volunteer groups.
+This is a website For Eco friendly enthusiast's,a small newly non-profit organisation indepented group trying to make a big impact to deforestation globally. The goal for the company is too spread awarness and too create eco friendly areas for our future to come by recieving donation's & volunteer groups.
 
 The aim of the project is to build an easily navigatable, Responsive website using HTML and CSS.
 
-# Prototype"s of all pages  
+# Prototype's of all pages  
 
 Home-page
 
@@ -23,18 +23,6 @@ Footer
 SignUp-Page 
 
 <img width="872" alt="Screen Shot 2022-09-09 at 15 58 12" src="https://user-images.githubusercontent.com/111317260/189380312-71147d31-a5c7-4acb-a66b-a6e67c72495d.png">
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
