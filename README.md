@@ -79,10 +79,10 @@ This is were you can find our photographers 4k photos taken from pexels.com , Th
 
 <img width="1364" alt="Screen Shot 2022-09-09 at 16 51 20" src="https://user-images.githubusercontent.com/111317260/189390888-a79041ab-3566-4bd0-990e-d84058cf6ff2.png">
 
-# GalleryEmbedded video
-This is to show the true beauty of our forest & wildlife in 4K video ,Video was taken from youtube and is play/stop/mute for user preference.
+# Gallery Embedded video
+This is located under the slide show image on the Gallery ,to show the true beauty of our forest & wildlife in a 4K video .The Video was taken from Youtube and is play/stop/mute for user preference when clicked.
 
-# Embedded Video
+# Gallery Embedded Video
 
 <img width="1426" alt="Screen Shot 2022-09-09 at 17 11 39" src="https://user-images.githubusercontent.com/111317260/189394637-73871070-c0a6-4e40-8801-1c258c0b62aa.png">
 
