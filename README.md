@@ -4,7 +4,7 @@ This is a website For eco friendly enthusiast's a small newly non-profit organis
 
 The aim of the project is to build an easily navigatable, responsive website using HTML and CSS.
 
-Wireframes
+Prototype"s of all pages 
 
 
 
@@ -94,23 +94,26 @@ Signup Form
 
 
 Features Left to Implement
+Justinmind.com was used to make the prototype at the beginning.
 
 HTML5
 HTML5 was used to create the structure of the site.
+
 CSS3
 CSS3 was used to add styling to the site.
 Font Awesome
+
 Font Awesome was used to import icons used across the site.
 Google Fonts
 Google Fonts was used
+
 Github
 Github was used to store the project's code after being pushed from Git.
 Gitpod
 Gitpod terminal was used to commit my code using Git and push it to Github.
 Git
 Git was used for version control through the Gitpod terminal.
-Balsamiq
-Balsamiq was used to design the wireframes for the project.
+
 
 
 
@@ -138,13 +141,12 @@ The footer code was also taken from the previously mentioned walkthrough project
 
 
 
-typed Content
 
 
 
-Design
-Colours were chosen and checked for readability through Webaim
-Media
+
+
+
 
 
 All photos used on throughout the site are used from pexels.com 
