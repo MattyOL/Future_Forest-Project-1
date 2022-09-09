@@ -6,6 +6,9 @@ The aim of the project is to build an easily navigatable, Responsive website usi
 
 # Prototype's of all pages  
 
+# Prototype site 
+Justinmind.com was used to make the prototype at the beginning
+
 Home-page
 
 Gallery-Page
@@ -94,7 +97,7 @@ This is located under the slide show image on the Gallery ,to show the true beau
 <img width="1404" alt="Screen Shot 2022-09-09 at 16 53 02" src="https://user-images.githubusercontent.com/111317260/189391271-f19262c6-c4aa-4417-befb-764c5cc4cca7.png">
 
 # Features Left to Implement
-Justinmind.com was used to make the prototype at the beginning.
+Create the page that is made after you have signed up too the site showing you the process of Donations/Volunteer work and communtiy.
 
 # HTML5
 HTML5 was used to create the structure of the site.
