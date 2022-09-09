@@ -36,6 +36,8 @@ I used rgbacolorpicker.com to choose a color that would be easily readable and v
 
 Typography
 I used Google Fonts to select and import the fonts that were used on the site.
+-
+-
 
 
 Features
@@ -43,18 +45,19 @@ Common Elements
 
 
 Logo and Navigation Bar
-
+-The logo and navigation bar is located across all pages ,The navigation menu brings you to the correct page when clicked, too return back to home-page you can also click the logo across all pages.
 
 
 
 The Main video of home-page
+The home-page video is only located on the landing page when the user first enters the site. 
 
 
 
 The Footer
 
-The footer displays across every page of the site and displays social media icons with links to the corresponding social media website to allow the user to fully explore all platforms easily.
-Footer
+The footer displays across every page of the site and displays social media icons with links to the corresponding social media website to allow the user to fully explore all platforms easily .
+
 
 Homepage
 This is the landing page that the user will be brought to when first entering the site.
@@ -73,7 +76,7 @@ Menu Page
 
 
 About Us
-This page allows the user to get a look into the background of the reason why it started & were its heading.
+This page allows the user to get a look into the background of the reason why it started & its ambitions.
 
 About Us Page
 
