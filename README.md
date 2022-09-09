@@ -70,11 +70,7 @@ This is the landing page that the user will be brought to when first entering th
 
 # Homepage
 
-
-
-
-
-# Menu Page
+<img width="1423" alt="Screen Shot 2022-09-09 at 16 47 54" src="https://user-images.githubusercontent.com/111317260/189390583-e18eb59a-3c45-41ee-b405-2d1971a89788.png">
 
 
 
@@ -88,7 +84,10 @@ This page allows the user to get a look into the background of the reason why it
 
 
 
-# Timeline Responsive
+# Gallery slide Responsive
+
+<img width="1364" alt="Screen Shot 2022-09-09 at 16 51 20" src="https://user-images.githubusercontent.com/111317260/189390888-a79041ab-3566-4bd0-990e-d84058cf6ff2.png">
+
 
 # Embedded Video
 
@@ -98,6 +97,7 @@ This page allows the user to get a look into the background of the reason why it
 
 # Signup Form
 
+<img width="1404" alt="Screen Shot 2022-09-09 at 16 53 02" src="https://user-images.githubusercontent.com/111317260/189391271-f19262c6-c4aa-4417-befb-764c5cc4cca7.png">
 
 # Features Left to Implement
 Justinmind.com was used to make the prototype at the beginning.
