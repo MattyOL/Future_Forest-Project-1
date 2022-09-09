@@ -72,15 +72,19 @@ This page allows the user to get a look into the background of the reason why it
 
 # About Us Page
 
-
+# Gallery
+This is were you can find our photographers 4k photos taken from pexels.com , The code was taken from 3wschools.com to make the slide show responsive with a few sliht changes to fit the site.
 
 # Gallery slide Responsive
 
 <img width="1364" alt="Screen Shot 2022-09-09 at 16 51 20" src="https://user-images.githubusercontent.com/111317260/189390888-a79041ab-3566-4bd0-990e-d84058cf6ff2.png">
 
+# GalleryEmbedded video
+This is to show the true beauty of our forest & wildlife in 4K video ,Video was taken from youtube and is play/stop/mute for user preference.
 
 # Embedded Video
 
+<img width="1426" alt="Screen Shot 2022-09-09 at 17 11 39" src="https://user-images.githubusercontent.com/111317260/189394637-73871070-c0a6-4e40-8801-1c258c0b62aa.png">
 
 
 
