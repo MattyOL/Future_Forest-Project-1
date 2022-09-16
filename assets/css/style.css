@@ -43,6 +43,10 @@ nav {
     padding-right: 15px;
 }
 
+#menu .active {
+    background: rgba(30, 111, 28, 0.8);
+}
+
 nav ul {
     float: right;
     margin-right: 20px;
@@ -247,10 +251,19 @@ ul li {
 .donatefooter .apps-icons i {
     font-size: 1.5em;
     margin: 1%;
-    padding: 2px 150px 2px 100px;  /* Social Media Icons - Padding Left, top, right, bottom */
+    padding: 2px 150px 2px 100px;  
     color: white;
 }
 /* Gallery slider */
+
+
+
+.barkimage {
+    background: url(/assets/css/images/maria-teneva-QhPFYmTB4Ls-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
 
 #slider {
     font-family: 'Helvetica Neue', sans-serif;
@@ -380,7 +393,7 @@ input[type=radio]:checked {
     height: 100px;
     padding-top: 20px;
     text-align: center;
-    margin: auto;
+    margin: 0 auto;
 }
 
 #sign-up a {
