@@ -96,6 +96,11 @@ ul li {
 #cover-text,
 #cover-text h2 {
     color: #fff;
+    font-size: 3rem;
+}
+
+#cover-text h3 {
+    font-size: 1rem;
 }
 
 #cover-text {
@@ -103,12 +108,12 @@ ul li {
     font-family: 'oswald', sans-serif;
     text-transform: uppercase;
     letter-spacing: 6px;
-    width: 300px;
-    height: 200px;
+    width: 500px;
+    height: 300px;
     padding-top: 30px;
     padding-left: 6px;
     bottom: 100px;
-    left: 40%;
+    left: 33%;
     position: absolute;
     text-align: center;
     border-radius: 20px;
