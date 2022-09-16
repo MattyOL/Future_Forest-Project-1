@@ -199,7 +199,15 @@ ul li {
     margin-top: -17rem;
 }
 
-/* Donating section */
+/* About page */
+
+
+
+.aboutfooter .apps-icons i {
+    padding: 2px 150px 2px 100px;  /* Social Media Icons - Padding Left, top, right, bottom */
+}
+
+/* Donate page */
 
 #bottom-section {
     height: 300px;
@@ -366,7 +374,10 @@ input[type=radio]:checked {
 #sign-up a {
     color: white;
 }
- 
+
+.signupfooter .apps-icons i {
+    padding: 2px 150px 2px 100px;  
+}
 /* Form - section */
 
 .form-section {
