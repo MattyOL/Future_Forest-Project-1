@@ -24,9 +24,9 @@ nav {
 
 .logo {
     color: white;
-    font-size: 50px;
+    font-size: 3em;
     line-height: 80px;
-    padding: 0 100px;
+    padding-left: 50px;
     font-weight: 900;
     font-family: 'oswald' sans-serif;
     letter-spacing: 5px;
@@ -36,6 +36,9 @@ nav {
 
 #menu {
     letter-spacing: 4px; 
+    margin-right: 0;
+    text-align: center;
+    padding-right: 15px;
 }
 
 nav ul {
@@ -52,11 +55,11 @@ nav ul li {
 
 nav ul li a {
     color: white;
-    font-size: 25px;
+    font-size: 1.3em;
     text-transform: uppercase;
     
     border-radius: 3px;
-    padding: 7px 13px;
+    padding: 7px 8px;
 }
 
  a:hover {
@@ -71,7 +74,7 @@ ul li {
 /* Home Video and cover text */
 
 #home-outer {
-    height: 600px;
+    height: 650px;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -104,7 +107,6 @@ ul li {
     height: 200px;
     padding-top: 30px;
     padding-left: 6px;
-    background-color: rgba(19, 20, 18, 0.71);
     bottom: 100px;
     left: 40%;
     position: absolute;
@@ -326,21 +328,21 @@ input[type=radio]:checked {
 
 #video-container {
     width: 100%;
-    height: 0;
-    padding-bottom: 56.25%;
     position: relative;
     align-content: center;
     
 }
 
  #video-container iframe {
-    position: absolute;
     width: 100%;
-    height: 90%;
     align-content: center;
     
 }
 
+.galleryfooter .apps-icons i {
+    padding: 2px 150px 2px 100px;
+    
+}
 /* Sign Up Detail section*/
  
 #sign-up {
@@ -400,21 +402,26 @@ input[type=radio]:checked {
 /* footer */
 
 footer {
-    height: 150px; 
+    height: 50px; 
 }
 
 .apps-icons {
     text-align: center;
+    width: 100%;
 }
 
 .apps-icons > li {
     display: inline;
 }
 .apps-icons i {
-    font-size: 160%;
+    font-size: 1.5em;
     margin: 1%;
-    padding: 5%;
+    padding: 2px 150px 2px 100px;  /* Social Media Icons - Padding Left, top, right, bottom */
     color: white;
+}
+
+.homefoot .apps-icons i {
+    padding: 2px 150px 2px 100px;  /* Social Media Icons - Padding Left, top, right, bottom */
 }
 
 .apps-icons p {
