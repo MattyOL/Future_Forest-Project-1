@@ -122,6 +122,10 @@ ul li {
     
 }
 
+.homefooter .apps-icons i {
+    padding: 2px 150px 2px 100px;  /* Social Media Icons - Padding Left, top, right, bottom */
+}
+
 /* About Us/ Deforestation/ Future Tab section  */
 
 .mytabs {
@@ -206,7 +210,7 @@ ul li {
 
 
 .aboutfooter .apps-icons i {
-    padding: 2px 150px 2px 100px;  /* Social Media Icons - Padding Left, top, right, bottom */
+    padding: 2px 150px 2px 100px; 
 }
 
 /* Donate page */
@@ -443,9 +447,7 @@ footer .apps-icons i {
     color: white;
 }
 
-.homefooter .apps-icons i {
-    padding: 2px 150px 2px 100px;  /* Social Media Icons - Padding Left, top, right, bottom */
-}
+
 
 .apps-icons p {
     color: white;
