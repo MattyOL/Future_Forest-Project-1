@@ -210,7 +210,13 @@ ul li {
 }
 
 /* About page */
-
+.aboutUsImg {
+    margin: auto;
+    height: 85%;
+    padding: 0px 0px 0px 0px;
+    width: 100%;
+    display: block;
+}
 
 
 .aboutfooter .apps-icons i {
@@ -465,3 +471,7 @@ footer .apps-icons i {
 .apps-icons p {
     color: white;
 }
+
+
+
+
