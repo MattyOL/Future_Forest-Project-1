@@ -218,6 +218,23 @@ ul li {
     display: block;
 }
 
+.container {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    width: 90%;
+}
+.textone h2 {
+    text-transform: uppercase;
+    font-size: 2rem;
+    text-align: center;
+    padding: 10% 10% 2%;
+
+}
+
+.containerone {
+    width: 50%;
+}
 
 .aboutfooter .apps-icons i {
     padding: 2px 150px 2px 100px; 
