@@ -187,6 +187,20 @@ ul li {
     padding: 2px 150px 2px 100px; 
 }
 
+
+
+#sign-up a:hover {
+    box-shadow: inset 100px 0 0 0 green;
+    color: white;
+}
+#sign-up a {
+    box-shadow: inset 0 0 0 0 green;
+    color:white;
+    margin: 0 -.25rem;
+    padding: 0 .25rem;
+    transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+}
+
 /* Gallery slider */
 
 .barkimage {
