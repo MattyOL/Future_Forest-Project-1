@@ -183,11 +183,20 @@ ul li {
     font-size: 1rem;
     color: white;
 }
-.aboutfooter .apps-icons i {
-    padding: 2px 150px 2px 100px; 
+
+#sign-up {
+    color: white;
+    height: 600px;
+    border-radius: 20px;
+    background: rgba(19, 20, 18, 0.71);
+    padding: 20px;
+    width: 400px;
+    height: 150px;
+    padding-top: 20px;
+    text-align: center;
+    margin: 0 auto;
+    
 }
-
-
 
 #sign-up a:hover {
     box-shadow: inset 100px 0 0 0 green;
@@ -201,13 +210,23 @@ ul li {
     transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
 }
 
+
+.aboutfooter .apps-icons i {
+    padding: 2px 150px 2px 100px; 
+}
+
+.donatefooter .apps-icons i {
+    padding: 2px 150px 2px 100px;
+    
+}
+
 /* Gallery slider */
 
 .barkimage {
-    background-image: url(/assets/css/images/maria-teneva-QhPFYmTB4Ls-unsplash.jpg);
+    background: url(/assets/css/images/maria-teneva-QhPFYmTB4Ls-unsplash.jpg);
     background-size: cover;
     background-position: center;
-    height: 100%;
+    
 }
 
 #slider {
