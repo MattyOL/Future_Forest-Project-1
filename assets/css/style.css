@@ -314,22 +314,6 @@ input[type=radio]:checked {
 }
 /* Sign Up Detail section*/
  
-#sign-up {
-    color: white;
-    height: 600px;
-    border-radius: 20px;
-    background: rgba(19, 20, 18, 0.71);
-    padding: 20px;
-    width: 400px;
-    height: 100px;
-    padding-top: 20px;
-    text-align: center;
-    margin: 0 auto;
-}
-
-#sign-up a {
-    color: white;
-}
 
 .signupfooter .apps-icons i {
     padding: 2px 150px 2px 100px;  
@@ -344,30 +328,56 @@ input[type=radio]:checked {
     height: 900px;
 }
 
-.signup-form {
-    margin: 350px 10% 0 0;
-    color: white;
-    background-color:  rgba(19, 20, 18, 0.71);
-    max-width: 800px;
-    position: absolute;
-    left: 5%;
-    padding: 30px;
-    border-radius: 20px;
+.signup-box{
+    width: 360px;
+    height: 620px;
+    margin: auto;
+    background-color: rgb(116, 116, 116);
+    border-radius: 3px;
 }
 
-.signup-form > h2 {
-    color: white;
-    margin-bottom: 30px;
-    text-align: left;
-    
+h1 {
+    text-align: center;
+    padding-top: 15px;
 }
 
-.text-input:hover {
-    border-color: green;
+h4 {
+    text-align: center;
+}
+form {
+    width: 300px;
+    margin-left: 20px;
 }
 
-.grow-button:hover {
+form label {
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+form input {
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border: 1px solid green;
+    border-radius: 6px;
+    outline: none;
+}
+
+input[type="button"] {
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
     background-color: green;
+    color: white;
+    font-size: 18px;
+}
+
+p {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
 }
 
 /* footer */
