@@ -453,6 +453,24 @@ footer .apps-icons i {
     color: white;
 }
 
+/* Media Queries */
+
+/*larger to medium size from 1200x and down */
+
+@media screen and (max-width: 1200px) {
+
+    
+}
+
+
+/* Medium size screen from 950px wide and down  */
+
+@media screen and (max-width: 950px) {
+    
+}
 
 
 
+@media screen and () {
+    
+}
