@@ -458,8 +458,16 @@ footer .apps-icons i {
 /*larger to medium size from 1200x and down */
 
 @media screen and (max-width: 1200px) {
+    #home-outer{
+
+    }
+    
+    #cover-text{
+        text-align: center;
+    }
 
     
+
 }
 
 
