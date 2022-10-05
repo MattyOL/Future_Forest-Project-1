@@ -79,7 +79,7 @@ ul li {
     height: auto;
     width: 100%;
     overflow: hidden;
-   
+    
     
 }
 
@@ -93,6 +93,7 @@ ul li {
     top: 0;
     bottom: 0;
     z-index: -1;
+    
 } 
 
 #cover-text,
@@ -111,15 +112,13 @@ ul li {
     font-family: 'oswald', sans-serif;
     text-transform: uppercase;
     letter-spacing: 6px;
-    width: 500px;
-    height: 300px;
-    padding-top: 30px;
-    padding-left: 6px;
-    bottom: 100px;
-    left: 33%;
+    left: 50%;
     max-width: 100%;
     text-align: center;
     border-radius: 20px;
+    position: absolute;
+    top: 70%;
+    transform: translate(-50%, -50%);
     
 }
 
@@ -335,6 +334,9 @@ input[type=radio]:checked {
     padding: 2px 150px 2px 100px;
     
 }
+
+
+
 /* Sign Up Detail section*/
  
 
@@ -406,18 +408,6 @@ p {
     color: white;
 }
 
-/*
-.para-2 {
-    text-align: center;
-    color: white;
-    font-size: 15px;
-    margin-top: -10px;
-}
-
-.para-2 a {
-    color: green;
-}
-*/
 
 /* footer */
 
@@ -448,14 +438,12 @@ footer .apps-icons i {
 /*larger to medium size from 1200x and down */
 
 @media screen and (max-width: 1300px) {
-    #home-outer{
-
-    }
+   
     .aboutcontainer{
-        flex-direction: column;
+        flex-direction: column-reverse;
     }
     .deforestcontainer{
-        flex-direction: column;
+        flex-direction: column-reverse;
     }
     .containerone{
         width: 100%;
@@ -469,7 +457,7 @@ footer .apps-icons i {
     }
 
     .logo{
-        font-size: 2rem;
+        font-size: 3rem;
     }
     
     footer{
@@ -478,11 +466,11 @@ footer .apps-icons i {
 }
 
 
-/* Medium size screen from 950px wide and down  */
+/* Medium size screen from 1060px wide and down  */
 
 @media screen and (max-width: 1060px) {
     nav ul li a{
-        font-size: .7rem;
+        font-size: 1rem;
     }
 }
 
@@ -492,4 +480,9 @@ footer .apps-icons i {
     .aboutUsImg{
         height: auto;
     }
+}
+
+@media  and (max-width:580px) {
+   
+    
 }
