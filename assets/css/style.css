@@ -76,18 +76,18 @@ ul li {
 /* Home Video and cover text */
 
 #home-outer {
-    height: 650px;
+    height: auto;
     width: 100%;
     overflow: hidden;
-    position: relative;
+   
     
 }
 
 #home-image { 
     width: 100vw;
-    height: 100vh;
+    height: auto;
     object-fit: cover;
-    position: absolute;
+    max-width: 100%;
     left: 0;
     right: 0;
     top: 0;
@@ -116,10 +116,9 @@ ul li {
     padding-left: 6px;
     bottom: 100px;
     left: 33%;
-    position: absolute;
+    max-width: 100%;
     text-align: center;
     border-radius: 20px;
-    
 }
 
 .homefooter .apps-icons i {
@@ -129,30 +128,31 @@ ul li {
 /* About Us/ Deforestation/ Future Tab section / Donate page */
 .aboutUsImg {
     margin: auto;
-    height: 85%;
     padding: 5px 5px 5px 5px;
     width: 100%;
     display: block;
     border-radius: 40px;
+    height: auto;
 }
 
 .aboutcontainer {
     display: flex;
-    flex-direction: row;
     margin: 5px 5px 5px 5px;
     width: 100%;
     background-color: rgb(37, 37, 37);
     border-radius: 40px;
+    flex-direction: column;
     
 }
 
 .deforestcontainer {
     display: flex;
-    flex-direction: row-reverse;
     margin: 5px 5px 5px 5px;
     width: 100%;
     background-color: rgb(37, 37, 37);
     border-radius: 40px;
+    flex-direction: column;
+
 }
 
 .containerone {
@@ -222,12 +222,7 @@ ul li {
 
 /* Gallery slider */
 
-.barkimage {
-    background: url(/assets/css/images/maria-teneva-QhPFYmTB4Ls-unsplash.jpg);
-    background-size: cover;
-    background-position: center;
-    
-}
+
 
 #slider {
     font-family: 'Helvetica Neue', sans-serif;
@@ -457,17 +452,25 @@ footer .apps-icons i {
 
 /*larger to medium size from 1200x and down */
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1300px) {
     #home-outer{
 
+    }
+    .aboutcontainer{
+        flex-direction: column;
     }
     
     #cover-text{
         text-align: center;
     }
 
+    .logo{
+        font-size: 2rem;
+    }
     
-
+    footer{
+        height: 50px;
+    }
 }
 
 
