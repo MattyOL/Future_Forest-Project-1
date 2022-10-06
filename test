@@ -85,7 +85,7 @@ ul li {
 
 #home-image { 
     width: 100vw;
-    height: 100vh;
+    height: auto;
     object-fit: cover;
     max-width: 100%;
     left: 0;
@@ -502,10 +502,6 @@ footer .apps-icons i {
 @media screen and (max-width: 950px) {
     .aboutUsImg{
         height: auto;
-    }
-    
-    .homefooter .apps-icons i {
-        padding: 2px 50px 2px 50px;
     }
 }
 
