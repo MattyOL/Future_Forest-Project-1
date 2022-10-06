@@ -89,6 +89,7 @@ About Us Page
 <img width="1410" alt="Screen Shot 2022-10-06 at 12 48 09" src="https://user-images.githubusercontent.com/111317260/194305831-5470ec69-c47a-45ec-9f0e-fc8b7a9d773a.png">
 <img width="1411" alt="Screen Shot 2022-10-06 at 12 48 23" src="https://user-images.githubusercontent.com/111317260/194305845-de419629-1740-4fbc-aaf6-1dbb63d0c0da.png">
 <img width="1416" alt="Screen Shot 2022-10-06 at 12 48 53" src="https://user-images.githubusercontent.com/111317260/194305699-1d19845d-0377-4e46-80c8-4823d05fb1f5.png">
+
 # Donate 
 
 <img width="1396" alt="Screen Shot 2022-10-06 at 12 55 34" src="https://user-images.githubusercontent.com/111317260/194306724-54d6df31-1efc-4b0c-9c24-12fcc457b7c1.png">
@@ -101,20 +102,27 @@ This is were you can find our photographers 4k photos taken from pexels.com , Th
 
 Gallery slide Responsive
 
-<img width="1364" alt="Screen Shot 2022-09-09 at 16 51 20" src="https://user-images.githubusercontent.com/111317260/189390888-a79041ab-3566-4bd0-990e-d84058cf6ff2.png">
+<img width="1381" alt="Screen Shot 2022-10-06 at 13 03 58" src="https://user-images.githubusercontent.com/111317260/194308050-31356294-5a05-4823-8954-035463490811.png">
+sive
 
 # Gallery Embedded video
 This is located under the slide show image on the Gallery ,to show the true beauty of our forest & wildlife in a 4K video .The Video was taken from Youtube and is play/stop/mute for user preference when clicked.
 
 Gallery Embedded Video
 
-<img width="1426" alt="Screen Shot 2022-09-09 at 17 11 39" src="https://user-images.githubusercontent.com/111317260/189394637-73871070-c0a6-4e40-8801-1c258c0b62aa.png">
+<img width="1362" alt="Screen Shot 2022-10-06 at 13 05 24" src="https://user-images.githubusercontent.com/111317260/194308186-1962a1d8-01ae-49f1-8aef-bc6e298d2ddd.png">
+
+
+
+
 
 # Signup Form 
 This is weere the user will sin up and the verificaton email will be sent to them to make a password, and then they be able to Donate/Volunteer.
 
 
 Signup Form
+
+<img width="1430" alt="Screen Shot 2022-10-06 at 13 02 28" src="https://user-images.githubusercontent.com/111317260/194307779-4b027aa6-6725-4308-9fee-ff17ffa33e1a.png">
 
 
 
