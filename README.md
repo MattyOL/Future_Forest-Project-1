@@ -87,11 +87,14 @@ This page allows the user to get a look into the background of the reason why it
 About Us Page
 
 <img width="1410" alt="Screen Shot 2022-10-06 at 12 48 09" src="https://user-images.githubusercontent.com/111317260/194305831-5470ec69-c47a-45ec-9f0e-fc8b7a9d773a.png">
-
 <img width="1411" alt="Screen Shot 2022-10-06 at 12 48 23" src="https://user-images.githubusercontent.com/111317260/194305845-de419629-1740-4fbc-aaf6-1dbb63d0c0da.png">
-
-
 <img width="1416" alt="Screen Shot 2022-10-06 at 12 48 53" src="https://user-images.githubusercontent.com/111317260/194305699-1d19845d-0377-4e46-80c8-4823d05fb1f5.png">
+# Donate 
+
+<img width="1396" alt="Screen Shot 2022-10-06 at 12 55 34" src="https://user-images.githubusercontent.com/111317260/194306724-54d6df31-1efc-4b0c-9c24-12fcc457b7c1.png">
+<img width="1418" alt="Screen Shot 2022-10-06 at 12 55 49" src="https://user-images.githubusercontent.com/111317260/194306756-a2c5e0a5-534a-4b28-9018-70205e00f94c.png">
+<img width="1417" alt="Screen Shot 2022-10-06 at 12 56 01" src="https://user-images.githubusercontent.com/111317260/194306763-c659dd8f-3648-46ca-94f9-1c8175a39c9f.png">
+
 
 # Gallery
 This is were you can find our photographers 4k photos taken from pexels.com , The code was taken from 3wschools.com to make the slide show responsive with a few sliht changes to fit the site.
