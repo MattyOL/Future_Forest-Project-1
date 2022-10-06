@@ -74,12 +74,9 @@ This is the landing page that the user will be brought to when first entering th
 
 Homepage
 
+<img width="1419" alt="Screen Shot 2022-10-06 at 16 06 01" src="https://user-images.githubusercontent.com/111317260/194352349-88fd888e-f933-4acb-956b-6cbbd2b87e99.png">
 
-
-
-
-
-
+<img width="1420" alt="Screen Shot 2022-10-06 at 16 20 17" src="https://user-images.githubusercontent.com/111317260/194352678-f7fa24bb-cff1-4116-9d5d-8befc27f5767.png">
 
 # About Us
 This page allows the user to get a look into the background of the reason why it started & its ambitions.
