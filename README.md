@@ -60,7 +60,7 @@ Common Elements
 
 
 # The Main video of home-page
-The home-page video is only located on the landing page when the user first enters the site. play/stop fixed to user preference. located when hover over bottom right of video 
+The home-page video is only located on the landing page when the user first enters the site. 
 
 
 
@@ -129,6 +129,8 @@ Signup Form
 # Features Left to Implement
 Create the page that is made after you have signed up too the site showing you the process of Donations/Volunteer work and communtiy.
 
+Take my own photos of trees and landscapes to get better Qaulity Images for across the site
+
 # HTML5
 HTML5 was used to create the structure of the site.
 
@@ -171,8 +173,9 @@ Open in Gitpod
 Code
 Code for the main video background was inspired from Code Institute's Love Running walkthrough project with some changes to suit this website structure.
 
-The footer code was also taken from the previously mentioned walkthrough project with ssome chnages added.
+The footer code was also taken from the previously mentioned walkthrough project with some changes added to best suit my project 1.
 
+The font styles was also taken from love runnibng site which i really liked because its easy to read.
 
 
 
