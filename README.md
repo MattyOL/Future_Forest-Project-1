@@ -86,6 +86,13 @@ This page allows the user to get a look into the background of the reason why it
 
 About Us Page
 
+<img width="1410" alt="Screen Shot 2022-10-06 at 12 48 09" src="https://user-images.githubusercontent.com/111317260/194305831-5470ec69-c47a-45ec-9f0e-fc8b7a9d773a.png">
+
+<img width="1411" alt="Screen Shot 2022-10-06 at 12 48 23" src="https://user-images.githubusercontent.com/111317260/194305845-de419629-1740-4fbc-aaf6-1dbb63d0c0da.png">
+
+
+<img width="1416" alt="Screen Shot 2022-10-06 at 12 48 53" src="https://user-images.githubusercontent.com/111317260/194305699-1d19845d-0377-4e46-80c8-4823d05fb1f5.png">
+
 # Gallery
 This is were you can find our photographers 4k photos taken from pexels.com , The code was taken from 3wschools.com to make the slide show responsive with a few sliht changes to fit the site.
 
