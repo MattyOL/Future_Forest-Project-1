@@ -8,11 +8,23 @@ The aim of the project is to build an easily navigatable, Responsive website usi
 Justinmind.com was used to make the prototype at the beginning
 
 # Prototype's of all pages  
+
 Home-page
+
+<img width="680" alt="Screen Shot 2022-10-06 at 12 27 55" src="https://user-images.githubusercontent.com/111317260/194301922-44d9ecf1-bb63-4a20-9fe4-b3f516ae3116.png">
+
+About-page
+
+<img width="900" alt="Screen Shot 2022-10-06 at 12 27 22" src="https://user-images.githubusercontent.com/111317260/194302104-87cfe32f-bd59-4e3d-ae82-5b4a6fc29501.png">
+
+Donate-page
+
+<img width="899" alt="Screen Shot 2022-10-06 at 12 26 01" src="https://user-images.githubusercontent.com/111317260/194302186-a63e9ace-31fb-46f3-bfe1-3c48a0ab2cf0.png">
 
 Gallery-Page
 
-<img width="592" alt="Screen Shot 2022-09-09 at 15 50 26" src="https://user-images.githubusercontent.com/111317260/189379167-b4d0311f-d63d-4165-ac60-54409758081c.png">
+![Screen Shot 2022-10-06 at 12 37 03](https://user-images.githubusercontent.com/111317260/194303067-28544d86-2f7a-406b-b6e1-17044d8ab9ea.png)
+
 
 Logo & Navigation Bar
  
@@ -24,7 +36,7 @@ Footer
 
 SignUp-Page 
 
-<img width="872" alt="Screen Shot 2022-09-09 at 15 58 12" src="https://user-images.githubusercontent.com/111317260/189380312-71147d31-a5c7-4acb-a66b-a6e67c72495d.png">
+<img width="822" alt="final prototypeProject 1" src="https://user-images.githubusercontent.com/111317260/194301889-75c62db9-304a-456f-86d0-a292446c9da5.png">
 
 
 
@@ -62,7 +74,7 @@ This is the landing page that the user will be brought to when first entering th
 
 Homepage
 
-<img width="1423" alt="Screen Shot 2022-09-09 at 16 47 54" src="https://user-images.githubusercontent.com/111317260/189390583-e18eb59a-3c45-41ee-b405-2d1971a89788.png">
+
 
 
 
@@ -94,7 +106,7 @@ This is weere the user will sin up and the verificaton email will be sent to the
 
 Signup Form
 
-<img width="1404" alt="Screen Shot 2022-09-09 at 16 53 02" src="https://user-images.githubusercontent.com/111317260/189391271-f19262c6-c4aa-4417-befb-764c5cc4cca7.png">
+
 
 # Features Left to Implement
 Create the page that is made after you have signed up too the site showing you the process of Donations/Volunteer work and communtiy.
