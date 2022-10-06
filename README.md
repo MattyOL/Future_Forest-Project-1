@@ -117,7 +117,7 @@ Gallery Embedded Video
 
 
 # Signup Form 
-This is weere the user will sin up and the verificaton email will be sent to them to make a password, and then they be able to Donate/Volunteer.
+This is were the user will sign up to be able to Donate and Volunteer to help fight climate change once they make there account they then will have the options to Donate, Gift a tree , Volunteer
 
 
 Signup Form
