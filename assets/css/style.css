@@ -511,6 +511,11 @@ footer .apps-icons i {
     .logo {
         font-size: 2em;
     }
+
+    .aboutfooter .apps-icons {
+        padding: padding: 1px px 1px 10px;
+        
+    }
 }
 
 @media screen and (max-width:480px) {
