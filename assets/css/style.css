@@ -22,7 +22,7 @@ nav {
     width: 100%;
 }
 
-.logo {
+.logo  {
     color: white;
     font-size: 3em;
     line-height: 80px;
@@ -30,6 +30,10 @@ nav {
     font-weight: 900;
     font-family: 'oswald' 'sans-serif';
     letter-spacing: 5px;
+}
+
+.logo a {
+    color: white;
 }
 
 #menu {
