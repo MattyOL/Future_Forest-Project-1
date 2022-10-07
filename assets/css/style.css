@@ -532,6 +532,9 @@ footer .apps-icons i {
     footer{
         height: 50px;
     }
+    .signup-box {
+        margin-top: 30%;
+    }
 }
 
 
@@ -546,7 +549,12 @@ footer .apps-icons i {
         margin-top: 30%;
     }
     .signup-box {
-        margin-left: 23%;
+        margin-top: 20%;
+    }
+
+    .form-section {
+        width: 100vh;
+        height: 100vh;
     }
 }
 
