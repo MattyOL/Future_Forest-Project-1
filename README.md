@@ -102,7 +102,7 @@ Gallery slide Responsive
 sive
 
 # Gallery Embedded video
-This is located under the slide show image on the Gallery ,to show the true beauty of our forest & wildlife in a 4K video .The Video was taken from Youtube and is play/stop/mute for user preference when clicked.
+This is located under the slide show image on the Gallery ,to show the true beauty of our forest & wildlife in a 4K video .The Video was taken from Youtube and is play/stop/mute for user preference when clicked. This video was taken from Youtube.
 
 Gallery Embedded Video
 
@@ -120,7 +120,7 @@ Signup Form
 
 <img width="1430" alt="Screen Shot 2022-10-06 at 13 02 28" src="https://user-images.githubusercontent.com/111317260/194307779-4b027aa6-6725-4308-9fee-ff17ffa33e1a.png">
 
-
+This form was taken from a youtube Tutorial with a few slight changes to make it more suited towards the overall look my Website
 
 # Features Left to Implement
 Create the page that is made after you have signed up too the site showing you the process of Donations/Volunteer work and community.
