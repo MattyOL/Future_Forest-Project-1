@@ -52,7 +52,7 @@ I used Google Fonts to select and import the fonts that were used on the site.
 
 
 # Logo and Navigation Bar
-The logo and navigation bar is located across all pages ,The navigation menu brings you to the correct page when clicked, too return back to home-page you can also click the logo across all pages.
+The logo and navigation bar is located across all pages ,The navigation menu brings you to the correct page when clicked, too return back to home-page you can also click the logo across all pages. The logo has a hoover effect for making it easier for the user to understand that its clickable, i took to from w3Schools and changed some small bits to fit my website.
 
 
 
