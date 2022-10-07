@@ -349,7 +349,7 @@ input[type=radio]:checked {
  #video-container iframe {
     width: 100%;
     align-content: center;
-    
+    height: 100vh;
 }
 
 .galleryfooter .apps-icons i {
@@ -372,7 +372,9 @@ input[type=radio]:checked {
     background: url(../css/images/maria-teneva-QhPFYmTB4Ls-unsplash.jpg);
     background-size: cover;
     background-position: center;
-    height: 620px;
+    height: 100vh;
+    position: relative;
+    border-radius: 20px;
 }
 
 .signup-box{
@@ -381,6 +383,9 @@ input[type=radio]:checked {
     margin: auto;
     background-color: rgb(116, 116, 116);
     border-radius: 20px;
+    position: absolute;
+    margin-left: 37%;
+    margin-top: 5%;
 }
 
 h1 {
@@ -495,6 +500,13 @@ footer .apps-icons i {
     nav ul li a{
         font-size: 1rem;
     }
+
+    .signup-box {
+        margin-top: 30%;
+    }
+    .signup-box {
+        margin-left: 23%;
+    }
 }
 
 
@@ -525,6 +537,8 @@ footer .apps-icons i {
     .galleryfooter .apps-icons i {
         padding: 1px 10px 1px 10px;
     }
+
+    
 }
 
 /* small screen (mobile) media queries 650px and down */
@@ -549,8 +563,12 @@ footer .apps-icons i {
     #sign-up {
         width: 250px;
     }
-}
 
+  
+}
+@media screen and (max-width:610px) {
+  
+}
 
 @media screen and (max-width:480px) {
     .logo {
@@ -569,9 +587,9 @@ footer .apps-icons i {
     font-size: .7em;
 }
 
-    #slider {
-        
-    }
+   .signupfooter .apps-icons i {
+    padding: 0px 0px 0px 0px;
+   }
 
     
 }
