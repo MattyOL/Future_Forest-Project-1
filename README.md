@@ -50,12 +50,9 @@ I used rgbacolorpicker.com to choose a color that would be easily readable and v
 I used Google Fonts to select and import the fonts that were used on the site.
 
 
-# Features
-Common Elements
-
 
 # Logo and Navigation Bar
--The logo and navigation bar is located across all pages ,The navigation menu brings you to the correct page when clicked, too return back to home-page you can also click the logo across all pages.
+The logo and navigation bar is located across all pages ,The navigation menu brings you to the correct page when clicked, too return back to home-page you can also click the logo across all pages.
 
 
 
@@ -80,7 +77,7 @@ Homepage Footer
 <img width="1420" alt="Screen Shot 2022-10-06 at 16 20 17" src="https://user-images.githubusercontent.com/111317260/194352678-f7fa24bb-cff1-4116-9d5d-8befc27f5767.png">
 
 # About Us
-This page allows the user to get a look into the background of the reason why it started & its ambitions.
+This page allows the user to get a look into the background of the reason why it started & its ambitions for the future.
 
 About Us Page
 
@@ -89,6 +86,7 @@ About Us Page
 <img width="1416" alt="Screen Shot 2022-10-06 at 12 48 53" src="https://user-images.githubusercontent.com/111317260/194305699-1d19845d-0377-4e46-80c8-4823d05fb1f5.png">
 
 # Donate 
+This is were the user can see what way they can donate and help them on the future for our climate and forest.
 
 <img width="1396" alt="Screen Shot 2022-10-06 at 12 55 34" src="https://user-images.githubusercontent.com/111317260/194306724-54d6df31-1efc-4b0c-9c24-12fcc457b7c1.png">
 <img width="1418" alt="Screen Shot 2022-10-06 at 12 55 49" src="https://user-images.githubusercontent.com/111317260/194306756-a2c5e0a5-534a-4b28-9018-70205e00f94c.png">
@@ -96,7 +94,7 @@ About Us Page
 
 
 # Gallery
-This is were you can find our photographers 4k photos taken from pexels.com , The code was taken from 3wschools.com to make the slide show responsive with a few sliht changes to fit the site.
+This is were you can find our photographers 4k photos taken from pexels.com and upslash.com , The code was taken from 3wschools.com to make the slide show responsive with a few slight changes to fit the site.
 
 Gallery slide Responsive
 
@@ -125,9 +123,11 @@ Signup Form
 
 
 # Features Left to Implement
-Create the page that is made after you have signed up too the site showing you the process of Donations/Volunteer work and communtiy.
+Create the page that is made after you have signed up too the site showing you the process of Donations/Volunteer work and community.
 
-Take my own photos of trees and landscapes to get better Qaulity Images for across the site
+create an app with gps of where the trees were planted when you gift a tree.
+
+Take my own photos of trees and landscapes to get better Qaulity Images for across the site.
 
 # HTML5
 HTML5 was used to create the structure of the site.
@@ -139,7 +139,7 @@ CSS3 was used to add styling to the site.
 Font Awesome was used to import icons used across the site.
 
 # Google Fonts
-Google Fonts was used
+Google Fonts was used for the fonts.
 
 # Github
 Github was used to store the project's code after being pushed from Git.
