@@ -143,8 +143,10 @@ Google Fonts was used for the fonts.
 
 # Github
 Github was used to store the project's code after being pushed from Git.
+
 Gitpod
 Gitpod terminal was used to commit my code using Git and push it to Github.
+
 Git
 Git was used for version control through the Gitpod terminal.
 
