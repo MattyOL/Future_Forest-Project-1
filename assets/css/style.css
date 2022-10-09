@@ -507,6 +507,7 @@ p {
 footer {
     height: 50px; 
     padding: 10px;
+    
 }
 
 .apps-icons {
@@ -625,8 +626,8 @@ footer .apps-icons i {
     .checkbtn {
         display: block;
     }
-    
-    ul {
+
+    #menu {
         position: fixed;
         width: 100%;
         height: 60vh;
@@ -676,6 +677,7 @@ footer .apps-icons i {
     .signup-box {
         margin-left: 25%;
     }
+   
 }
 
 @media screen and ( max-width:520px) {
