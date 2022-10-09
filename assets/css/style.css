@@ -714,6 +714,18 @@ footer .apps-icons i {
     left: 50%;
     top: 35%;
     } 
+
+    #cover-text h2 {
+            font-size: 30px;
+    }
+
+    #cover-text h3 {
+        font-size: 10px;
+    }
+    #cover-text h4 {
+        font-size: 25px;
+    }
+
         
     
 }
@@ -730,5 +742,16 @@ footer .apps-icons i {
         padding-right: 5px;
     }
 
+    #cover-about h2 {
+        font-size: 20px;
+    }
+
+    
+}
+
+@media screen and (max-width: 321px) {
+    .logo{
+        font-size: 17px;
+    }
     
 }
