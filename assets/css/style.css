@@ -12,11 +12,9 @@ body {
     font-family: 'lato', 'sans-serif';
     font-weight: 300;
     background-color: rgb(61, 77, 61);
-    
-    
 }
 
-/* Logo , Nav Bar */  
+/* -- Logo , Nav Bar -- */  
 
 nav {
     background: rgb(61, 77, 61);
@@ -37,6 +35,7 @@ nav {
 .logo a {
     color: white;
 }
+
 .logo a {
     background-image: linear-gradient(
       to right,
@@ -116,6 +115,7 @@ nav ul li a {
     display: none;
     padding-top: 30px;
 }
+
 ul {
     border-radius: 20px;
 }
@@ -124,7 +124,6 @@ ul {
     display: none;
     
 }
-
 
 #menu a:hover {
     background: rgba(30, 111, 28, 0.8);
@@ -135,7 +134,7 @@ ul li {
     word-spacing: 7px;
 }
 
-/* Home Video and cover text */
+/* -- Home Video and cover text -- */
 
 #home-outer {
     height: auto;
@@ -181,16 +180,14 @@ ul li {
     position: absolute;
     top: 50%;
     transform: translate(-50%, -50%);
-    
 }
-
-
 
 .homefooter .apps-icons i {
     padding: 2px 150px 2px 100px;  /* Social Media Icons - Padding Left, top, right, bottom */
 }
 
-/* About Us page  / Donate page */
+/* -- About Us page  / Donate page -- */
+
 .about-image {
     position: relative;
 }
@@ -204,6 +201,7 @@ ul li {
     border-radius: 40px;
     
 }
+
 .aboutcontainer {
     display: flex;
     flex-direction: row;
@@ -213,6 +211,7 @@ ul li {
     border-radius: 40px;
     
 }
+
 #cover-about {
     font-size: 150%;
     font-family: 'oswald', sans-serif;
@@ -228,6 +227,7 @@ ul li {
     color: white;
     position: absolute;
 }
+
 .deforestcontainer {
     display: flex;
     flex-direction: row-reverse;
@@ -239,14 +239,17 @@ ul li {
 .containerone {
     width: 60%;
 }
+
 .containerone img {
     width: 100%;
     height: auto;
     border-radius: 40px;
 }
+
 .textone {
     width: 60%;
 }
+
 .textone h2{
     text-transform: uppercase;
     font-size: 1.5rem;
@@ -280,6 +283,7 @@ ul li {
     box-shadow: inset 100px 0 0 0 green;
     color: white;
 }
+
 #sign-up a {
     box-shadow: inset 0 0 0 0 green;
     color:white;
@@ -288,19 +292,15 @@ ul li {
     transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
 }
 
-
 .aboutfooter .apps-icons i {
     padding: 2px 150px 2px 100px; 
 }
 
 .donatefooter .apps-icons i {
     padding: 2px 150px 2px 100px;
-    
 }
 
 /* Gallery slider */
-
-
 
 #slider {
     font-family: 'Helvetica Neue', sans-serif;
@@ -399,7 +399,7 @@ input[type=radio]:checked {
     transform: translate3d(-20%, 0, -100px);
 }
 
-/* Youtube playable video */ 
+/* Youtube Playable video */ 
 
 #video-container {
     width: 100%;
@@ -415,19 +415,17 @@ input[type=radio]:checked {
 }
 
 .galleryfooter .apps-icons i {
-    padding: 2px 150px 2px 100px;
-    
+    padding: 2px 150px 2px 100px;  
 }
 
-
-
-/* Sign Up Detail section*/
+/* -- Sign Up Detail section / Form Section --*/
  
 
 .signupfooter .apps-icons i {
     padding: 2px 150px 2px 100px;  
 }
-/* Form - section */
+
+
 
 .form-section {
     clear: left;
@@ -501,8 +499,7 @@ p {
     color: white;
 }
 
-
-/* footer */
+/* Footer */
 
 footer {
     height: 50px; 
@@ -529,9 +526,9 @@ footer .apps-icons i {
     color: white;
 }
 
-/* Media Queries */
+/*          -- Media Querie's --
 
-/*larger to medium size from 1200x and down */
+-- Larger to Medium size from 1300px and down-- */
 
 @media screen and (max-width: 1300px) {
    
@@ -562,9 +559,7 @@ footer .apps-icons i {
     .signup-box {
         margin-top: 30%;
     }
-    
 }
-
 
 /* Medium size screen from 1060px wide and down  */
 
@@ -585,8 +580,6 @@ footer .apps-icons i {
         height: 100vh;
     }
 }
-
-
 
 @media screen and (max-width: 950px) {
     .aboutUsImg{
@@ -614,11 +607,7 @@ footer .apps-icons i {
     nav ul li a {
         font-size: 16px;
     }
-
-  
-    
 }
-
 
 /* small screen (mobile) media queries 650px and down */
 
@@ -680,7 +669,7 @@ footer .apps-icons i {
    
 }
 
-@media screen and ( max-width:520px) {
+@media screen and (max-width:520px) {
     .logo {
         font-size: 30px;
     }
@@ -697,16 +686,13 @@ footer .apps-icons i {
         font-size: 1em;
     }
 
-   
-
     nav ul li a{
     font-size: .7em;
     }
 
-   
-   .signupfooter .apps-icons i {
+    .signupfooter .apps-icons i {
     padding: 10px 50px 10px 50px;
-    }
+    }  
 
     .signup-box {
     width: 345px;
@@ -724,6 +710,7 @@ footer .apps-icons i {
     #cover-text h3 {
         font-size: 10px;
     }
+
     #cover-text h4 {
         font-size: 25px;
     }
@@ -747,8 +734,6 @@ footer .apps-icons i {
     #cover-about h2 {
         font-size: 20px;
     }
-
-    
 }
 
 @media screen and (max-width: 321px) {
