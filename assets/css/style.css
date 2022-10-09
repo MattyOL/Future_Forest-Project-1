@@ -665,6 +665,29 @@ footer .apps-icons i {
 
     .signup-box {
         margin-left: 25%;
+
+    }
+    
+    .apps-icons {
+        display: block;
+        width: 100%;
+    }
+
+    .homefooter .apps-icons i {
+        padding: 20px;
+        
+    }
+    .aboutfooter .apps-icons i {
+        padding: 20px;
+
+
+    }
+    .donatefooter .apps-icons i {
+        padding: 20px ;
+
+    }
+    .galleryfooter .apps-icons i {
+        padding:    20px;
     }
    
 }
