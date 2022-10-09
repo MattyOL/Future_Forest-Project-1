@@ -125,7 +125,7 @@ This form was taken from a youtube Tutorial with a few slight changes to make it
 # Features Left to Implement
 Create the page that is made after you have signed up too the site showing you the process of Donations/Volunteer work and community.
 
-I wanted to add a background Image behind the slider gallery but i could nt solve the issue id like to come back and solve this.
+I wanted to add a background Image behind the slider gallery but i could n0t solve the issue id like to come back and solve this.
 
 Create an app with gps of where the trees were planted when you gift a tree.
 
