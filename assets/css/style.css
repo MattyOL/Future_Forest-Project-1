@@ -689,12 +689,19 @@ footer .apps-icons i {
     .galleryfooter .apps-icons i {
         padding:    20px;
     }
+    .signupfooter .apps-icons {
+        padding: 20px;
+    }
    
 }
 
 @media screen and (max-width:520px) {
     .logo {
         font-size: 30px;
+    }
+
+    .form-section {
+        background-size: cover;
     }
     
 }
@@ -744,7 +751,7 @@ footer .apps-icons i {
 
 @media screen and (max-width:400px ) {
     .logo {
-        font-size: 20px;
+        font-size: 15px;
         padding-left: 25px;
     }
 
@@ -761,7 +768,7 @@ footer .apps-icons i {
 
 @media screen and (max-width: 321px) {
     .logo{
-        font-size: 17px;
+        font-size: 10px;
     }
     
 }
