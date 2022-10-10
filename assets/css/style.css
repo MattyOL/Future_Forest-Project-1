@@ -614,8 +614,10 @@ footer .apps-icons i {
 @media screen and (max-width:620px) {
     .checkbtn {
         display: block;
+        font-size: 35px;
+        padding-top: 9px;
+        padding-right: 5px;
     }
-
     #menu {
         position: fixed;
         width: 100%;
@@ -712,6 +714,12 @@ footer .apps-icons i {
         font-size: 25px;
     }
 
+    .checkbtn {
+        font-size: 30px;
+        padding-top: 9px;
+        padding-right: 5px;
+    }
+
    #cover-about h2{
         font-size: 1em;
     }
@@ -723,6 +731,8 @@ footer .apps-icons i {
     .signupfooter .apps-icons i {
     padding: 10px 50px 10px 50px;
     }  
+
+
 
     .signup-box {
     width: 345px;
@@ -757,7 +767,7 @@ footer .apps-icons i {
 
     .checkbtn {
         font-size: 18px;
-        padding-top: 35px;
+        padding-top: 7px;
         padding-right: 5px;
     }
 
