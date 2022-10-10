@@ -709,7 +709,7 @@ footer .apps-icons i {
 @media screen and (max-width:480px ) {
 
     .logo {
-        font-size: 25px;
+        font-size: 30px;
     }
 
    #cover-about h2{
@@ -751,7 +751,7 @@ footer .apps-icons i {
 
 @media screen and (max-width:400px ) {
     .logo {
-        font-size: 15px;
+        font-size: 25px;
         padding-left: 25px;
     }
 
@@ -768,7 +768,7 @@ footer .apps-icons i {
 
 @media screen and (max-width: 321px) {
     .logo{
-        font-size: 10px;
+        font-size: 20px;
     }
     
 }
