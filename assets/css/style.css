@@ -141,7 +141,7 @@ ul li {
     width: 100%;
     overflow: hidden;
     position: relative;
-    
+    display: block;
 }
 
 #home-image { 
