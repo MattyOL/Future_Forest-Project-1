@@ -544,9 +544,9 @@ footer .apps-icons i {
         top: 80px;
         left: -100%;
         text-align: center;
-        transition: all .5s;
-        
+        transition: all .5s; 
     }
+
     .aboutcontainer{
         flex-direction: column-reverse;
     }
@@ -627,24 +627,6 @@ footer .apps-icons i {
 /* small screen (mobile) media queries 650px and down */
 
 @media screen and (max-width:620px) {
-    .checkbtn {
-        display: block;
-        font-size: 35px;
-        padding-top: 9px;
-        padding-right: 5px;
-    }
-    #menu {
-        position: fixed ! important;
-        width: 100%;
-        height: 60vh;
-        background: rgb(116, 116, 116);
-        top: 80px;
-        left: -100%;
-        text-align: center;
-        transition: all .5s;
-        
-    }
-
     nav ul li {
         display: block;
         margin: 50px 0;
@@ -675,7 +657,7 @@ footer .apps-icons i {
     }
 
     .logo {
-        font-size: 40px;
+        font-size: 37px;
     }
     #sign-up {
         width: 250px;
@@ -715,7 +697,7 @@ footer .apps-icons i {
 
 @media screen and (max-width:520px) {
     .logo {
-        font-size: 30px;
+        font-size: 27px;
     }
 
     .form-section {
