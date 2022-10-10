@@ -22,7 +22,7 @@ nav {
     width: 100%;
 }
 
-.logo  {
+.logo {
     color: white;
     font-size: 3em;
     line-height: 80px;
@@ -41,7 +41,7 @@ nav {
       to right,
        green,
        green 50%,
-       white 50%
+       white 80%
     );
     background-size: 200% 100%;
     background-position: -100%;
