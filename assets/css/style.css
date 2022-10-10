@@ -100,7 +100,6 @@ nav ul li a {
     color: white;
     font-size: 1.3em;
     text-transform: uppercase;
-    
     border-radius: 3px;
     padding: 7px 8px;
 }
@@ -627,13 +626,14 @@ footer .apps-icons i {
         left: -100%;
         text-align: center;
         transition: all .5s;
-        
+        position: fixed ! important;
     }
 
     nav ul li {
         display: block;
         margin: 50px 0;
         line-height: 30px;
+        
     }
 
     nav ul li a {
@@ -761,7 +761,7 @@ footer .apps-icons i {
 
 @media screen and (max-width:400px ) {
     .logo {
-        font-size: 20px;
+        font-size: 18px;
         padding-left: 25px;
     }
 
