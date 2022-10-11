@@ -63,7 +63,7 @@ The home-page video is only located on the landing page when the user first ente
 
 # The Footer
 
-The footer displays across every page of the site and displays social media icons with links to the corresponding social media website to allow the user to fully explore all platforms easily .
+The footer displays across every page of the site and displays social media icons with links to the corresponding social media website to allow the user to fully explore all platforms easily i took this idea from the love runnning project with some slight changes to suit my site.
 
 
 # Homepage
