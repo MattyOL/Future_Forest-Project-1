@@ -448,7 +448,7 @@ input[type=radio]:checked {
     border-radius: 20px;
     position: absolute;
     margin-left: 37%;
-    margin-top: 5%;
+    margin-top: 4%;
 }
 
 h1 {
@@ -530,12 +530,14 @@ footer .apps-icons i {
 -- Larger to Medium size from 1300px and down-- */
 
 @media screen and (max-width: 1300px) {
+
     .checkbtn {
         display: block;
         font-size: 35px;
         padding-top: 9px;
         padding-right: 5px;
     }
+
     #menu {
         position: fixed ! important;
         width: 100%;
@@ -547,30 +549,34 @@ footer .apps-icons i {
         transition: all .5s; 
     }
 
-    .aboutcontainer{
+    .aboutcontainer {
         flex-direction: column-reverse;
     }
-    .deforestcontainer{
+
+    .deforestcontainer {
         flex-direction: column-reverse;
     }
-    .containerone{
+
+    .containerone {
+       
         width: 100%;
     }
     .textone{
         width: 100%;
     }
     
-    #cover-text{
+    #cover-text {
         text-align: center;
     }
 
-    .logo{
+    .logo {
         font-size: 3rem;
     }
     
-    footer{
+    footer {
         height: 50px;
     }
+
     .signup-box {
         margin-top: 30%;
     }
@@ -586,6 +592,7 @@ footer .apps-icons i {
     .signup-box {
         margin-top: 30%;
     }
+
     .signup-box {
         margin-top: 20%;
     }
@@ -600,7 +607,24 @@ footer .apps-icons i {
     .aboutUsImg{
         height: auto;
     }
-    
+
+    .signup-box {
+        margin-left: 32%;
+    }
+
+    .logo {
+        font-size: 3em;
+        text-align: center;
+    }
+
+    nav ul li a {
+        font-size: 16px;
+    }
+
+    .signup-box {
+        margin-left: 32%;
+    }
+
     .apps-icons {
         display: block;
         width: 90%;
@@ -610,17 +634,9 @@ footer .apps-icons i {
         width: 20%;
         display: inline-block;
     }
+
     .homefooter .apps-icons i {
         padding-right: 40px;
-    }    
-
-    .logo {
-        font-size: 3em;
-        text-align: center;
-    }
-
-    nav ul li a {
-        font-size: 16px;
     }
 }
 
@@ -651,7 +667,6 @@ footer .apps-icons i {
         padding-bottom: 40px;
     }
     
-
     nav ul li a{
         font-size: 1em;
     }
@@ -659,15 +674,16 @@ footer .apps-icons i {
     .logo {
         font-size: 37px;
     }
+
     #sign-up {
         width: 250px;
     }
 
     .signup-box {
-        margin-left: 25%;
+        margin-left: 18%;
 
     }
-    
+
     .apps-icons {
         display: block;
         width: 100%;
@@ -677,22 +693,23 @@ footer .apps-icons i {
         padding: 20px;
         
     }
+
     .aboutfooter .apps-icons i {
         padding: 20px;
-
-
     }
+
     .donatefooter .apps-icons i {
-        padding: 20px ;
+        padding: 20px;
 
     }
+
     .galleryfooter .apps-icons i {
-        padding:    20px;
-    }
-    .signupfooter .apps-icons {
         padding: 20px;
     }
-   
+
+    .signupfooter .apps-icons i {
+        padding: 20px;
+    }
 }
 
 @media screen and (max-width:520px) {
@@ -702,6 +719,19 @@ footer .apps-icons i {
 
     .form-section {
         background-size: cover;
+    }
+
+    .signup-box {
+        width: 300px;
+        margin-left: 22%;
+    }
+
+    input[type="button"] {
+        width:100px;
+    }
+
+    form input {
+        width: 200px;
     }
     
 }
@@ -772,11 +802,18 @@ footer .apps-icons i {
     #cover-about h2 {
         font-size: 20px;
     }
+
+    .signup-box {
+        width: 250px;
+    }
+
+    p {
+        font-size: 10px;
+    }
 }
 
 @media screen and (max-width: 321px) {
     .logo{
         font-size: 16px;
-    }
-    
+    } 
 }
