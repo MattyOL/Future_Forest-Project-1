@@ -179,10 +179,14 @@ The footer code was also taken from the previously mentioned walkthrough project
 
 The font styles was also taken from love runnibng site which i really liked because its easy to read.
 
+Too make the website more responsive on the navigation on smaller mobile devices i used w3shools to make the hover effect and used code to help with this.
 
+I used flexbox to make the website more easier and to make it mote responive i used a guide from csstrick.com to be able to implement this to suit my site. to create the about and donation page .
 
+he code was taken from 3wschools.com to make the slide show responsive with a few slight changes to fit the site.
 
-
+This form was taken from a youtube Tutorial with a few slight changes to make it more suited towards the overall look my Website - [
+](https://youtu.be/-1oE7CWweIE)
 
 
 
