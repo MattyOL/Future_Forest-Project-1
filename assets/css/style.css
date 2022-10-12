@@ -21,6 +21,8 @@ nav {
     background: rgb(61, 77, 61);
     height: 80px;
     width: 100%;
+    position: fixed;
+    z-index: 10;
 }
 
 .logo {
@@ -531,7 +533,27 @@ footer .apps-icons i {
 -- Larger to Medium size from 1300px and down-- */
 
 @media screen and (max-width: 1300px) {
+    .checkbtn {
+        display: block;
+        font-size: 35px;
+        padding-top: 9px;
+       
+    }
 
+    #menu {
+        position: fixed ! important;
+        width: 100%;
+        background: rgb(116, 116, 116);
+        top: 80px;
+        left: -100%;
+        text-align: center;
+        transition: all .5s;
+        z-index: 1;
+    }
+
+    #check:checked ~ ul {
+        left: 0;
+    }
 
  
     
@@ -629,24 +651,7 @@ footer .apps-icons i {
 /* small screen (mobile) media queries 650px and down */
 
 @media screen and (max-width:620px) {
-    .checkbtn {
-        display: block;
-        font-size: 35px;
-        padding-top: 9px;
-       
-    }
-
-    #menu {
-        position: fixed ! important;
-        width: 100%;
-        height: 60vh;
-        background: rgb(116, 116, 116);
-        top: 80px;
-        left: -100%;
-        text-align: center;
-        transition: all .5s;
-        z-index: 1;
-    }
+    
 
     nav ul li {
         display: block;
@@ -663,9 +668,7 @@ footer .apps-icons i {
         color: white;
     }
 
-    #check:checked ~ ul {
-        left: 0;
-    }
+    
 
     .signup-body .checkbtn {
         padding-bottom: 40px;
