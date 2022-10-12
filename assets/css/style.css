@@ -23,7 +23,7 @@ nav {
     background: rgb(61, 77, 61);
     height: 80px;
     width: 100%;
-    position: fixed;
+    position: static;
     z-index: 10;
 }
 
