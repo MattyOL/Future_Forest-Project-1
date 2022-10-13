@@ -192,4 +192,4 @@ This form was taken from a youtube Tutorial with a few slight changes to make it
 
 
 
-All photos used on throughout the site are used from pexels.com 
+All photos used on throughout the site are used from pexels.com and upslash.com
