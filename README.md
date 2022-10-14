@@ -181,12 +181,14 @@ The footer code was also taken from the previously mentioned walkthrough project
 
 The font styles was also taken from love runnibng site which i really liked because its easy to read.
 
-Too make the website more responsive on the navigation on smaller mobile devices i used w3shools to make the hover effect and used code to help with this.
+Too make the website more responsive on the navigation on smaller mobile devices i used w3shools to make the hover effect and used code to help with this.[hover effect w3schools
+](https://www.w3schools.com/cssref/sel_hover.asp)
 
 I used flexbox to make the website more easier and to make it mote responsive i used a guide from csstrick.com to be able to implement this to suit my site. to create the about and donation page -[flexbox tricks
 ](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-the code was taken from 3wschools.com to make the slide show responsive with a few slight changes to fit the site.
 
+Yhe code was taken from 3wschools.com to make the slide show responsive with a few slight changes to fit the site.[slideshow
+](https://www.w3schools.com/howto/howto_js_slideshow.asp)
 This form was taken from a youtube Tutorial with a few slight changes to make it more suited towards the overall look my Website - [FORM tutorial
 ](https://youtu.be/-1oE7CWweIE)
 
