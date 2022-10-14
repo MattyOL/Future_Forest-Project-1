@@ -86,7 +86,7 @@ About Us Page
 <img width="1416" alt="Screen Shot 2022-10-06 at 12 48 53" src="https://user-images.githubusercontent.com/111317260/194305699-1d19845d-0377-4e46-80c8-4823d05fb1f5.png">
 
 # Donate 
-This is were the user can see what way they can donate and help them on the future for our climate and forest.I used flexbox to make the website more easier and to make it mote responive i used a guide from csstrick.com to be able to implement this to suit my site
+This is were the user can see what way they can donate and help them on the future for our climate and forest.I used flexbox to make the website more easier to make responsive , I used a guide from csstrick.com to be able to implement this to suit my site.
 
 <img width="1396" alt="Screen Shot 2022-10-06 at 12 55 34" src="https://user-images.githubusercontent.com/111317260/194306724-54d6df31-1efc-4b0c-9c24-12fcc457b7c1.png">
 <img width="1418" alt="Screen Shot 2022-10-06 at 12 55 49" src="https://user-images.githubusercontent.com/111317260/194306756-a2c5e0a5-534a-4b28-9018-70205e00f94c.png">
