@@ -77,7 +77,7 @@ Homepage Footer
 <img width="1420" alt="Screen Shot 2022-10-06 at 16 20 17" src="https://user-images.githubusercontent.com/111317260/194352678-f7fa24bb-cff1-4116-9d5d-8befc27f5767.png">
 
 # About Us
-This page allows the user to get a look into the background of the reason why it started & its ambitions for the future. I used flexbox to make the website more easier and to make it mote responive i used a guide from csstrick.com to be able to implement this to suit my site.
+This page allows the user to get a look into the background of the reason why it started & its ambitions for the future. I used flexbox to make the website more easier and to make it more responsive i used a guide from csstrick.com to be able to implement this to suit my site.
 
 About Us Page
 
