@@ -127,6 +127,8 @@ Create the page that is made after you have signed up too the site showing you t
 
 I wanted to add a background Image behind the slider gallery but i could n0t solve the issue id like to come back and solve this.
 
+Id like to make the images and home page video to change with the seasons of the year.
+
 Create an app with gps of where the trees were planted when you gift a tree.
 
 Take my own photos of trees and landscapes to get better Qaulity Images for across the site.
