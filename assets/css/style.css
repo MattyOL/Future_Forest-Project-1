@@ -117,7 +117,7 @@ nav ul li a {
     margin-right: 40px;
     cursor: pointer;
     display: none;
-    padding-top: 2px;
+    padding-top: 32px;
 }
 
 ul {
@@ -187,6 +187,16 @@ ul li {
 }
 
 /* -- About Us page  / Donate page -- */
+.checkbtnh {
+    font-size: 30px;
+    color: white;
+    float: right;
+    line-height: 80px;
+    margin-right: 40px;
+    cursor: pointer;
+    display: none;
+    padding-top: 10px;
+}
 
 .about-image {
     position: relative;
@@ -290,14 +300,6 @@ ul li {
     margin: 0 -.25rem;
     padding: 0 .25rem;
     transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
-}
-
-.aboutfooter .apps-icons i {
-    padding: 2px 150px 2px 100px; 
-}
-
-.donatefooter .apps-icons i {
-    padding: 2px 150px 2px 100px;
 }
 
 /* Gallery slider */
@@ -414,10 +416,6 @@ input[type=radio]:checked {
     height: 100vh;
 }
 
-.galleryfooter .apps-icons i {
-    padding: 2px 150px 2px 100px;  
-}
-
 /* -- Sign Up Detail section / Form Section --*/
  
 .form-section {
@@ -436,7 +434,7 @@ input[type=radio]:checked {
 
 .signup-box{
     width: 360px;
-    height: 620px;
+    height: 600px;
     margin: auto;
     background-color: rgb(116, 116, 116);
     border-radius: 20px;
@@ -524,11 +522,13 @@ footer .apps-icons i {
 -- Larger to Medium size from 1300px and down-- */
 
 @media screen and (max-width: 1300px) {
-    .checkbtn {
+    .checkbtnh {
         display: block;
         font-size: 35px;
-        
-       
+    }
+    .checkbtn {
+        display: block;
+        font-size: 35px;  
     }
 
     #menu {
@@ -613,16 +613,12 @@ footer .apps-icons i {
     }
 
     .logo {
-        font-size: 3em;
+        font-size: 2em;
         text-align: center;
     }
 
     nav ul li a {
         font-size: 16px;
-    }
-
-    .signup-box {
-        margin-left: 32%;
     }
 
     .apps-icons {
@@ -747,7 +743,7 @@ footer .apps-icons i {
     .checkbtn {
         font-size: 30px;
         padding-right: 5px;
-        padding-top: 5px;
+      
     }
 
    #cover-about h2{
@@ -758,6 +754,13 @@ footer .apps-icons i {
     font-size: .7em;
     }
 
+    form  {
+        width: 0px;
+    }
+    
+    form label {
+        margin-top: 0px;
+    }
     .signup-box {
     width: 345px;
     height: 564px;
@@ -785,12 +788,13 @@ footer .apps-icons i {
 
 @media screen and (max-width:400px ) {
     .logo {
-        padding-left: 25px;
+        padding-left: 20px;
     }
 
     .checkbtn {
         font-size: 18px;
         padding-right: 5px;
+        padding-top: 37px;
     }
 
     #cover-about h2 {
