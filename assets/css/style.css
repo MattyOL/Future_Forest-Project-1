@@ -716,6 +716,7 @@ footer .apps-icons i {
 @media screen and (max-width:520px) {
     .logo {
         font-size: 27px;
+        padding-left: 25px;
     }
 
     .form-section {
@@ -784,7 +785,6 @@ footer .apps-icons i {
 
 @media screen and (max-width:400px ) {
     .logo {
-        font-size: 18px;
         padding-left: 25px;
     }
 
