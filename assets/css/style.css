@@ -117,7 +117,7 @@ nav ul li a {
     margin-right: 40px;
     cursor: pointer;
     display: none;
-    padding-top: 30px;
+    padding-top: 10px;
 }
 
 ul {
@@ -184,10 +184,6 @@ ul li {
     position: absolute;
     top: 50%;
     transform: translate(-50%, -50%);
-}
-
-.homefooter .apps-icons i {
-    padding: 2px 150px 2px 100px;  /* Social Media Icons - Padding Left, top, right, bottom */
 }
 
 /* -- About Us page  / Donate page -- */
@@ -424,13 +420,6 @@ input[type=radio]:checked {
 
 /* -- Sign Up Detail section / Form Section --*/
  
-
-.signupfooter .apps-icons i {
-    padding: 2px 150px 2px 100px;  
-}
-
-
-
 .form-section {
     clear: left;
     background: url(../css/images/maria-teneva-QhPFYmTB4Ls-unsplash.jpg);
@@ -638,7 +627,8 @@ footer .apps-icons i {
 
     .apps-icons {
         display: block;
-        width: 90%;
+        width: 100%;
+        padding-left: 50px;
     }
 
     .apps-icons li {
@@ -647,7 +637,7 @@ footer .apps-icons i {
     }
 
     .homefooter .apps-icons i {
-        padding-right: 40px;
+        padding-right: 50px;
     }
 }
 
@@ -697,6 +687,7 @@ footer .apps-icons i {
     .apps-icons {
         display: block;
         width: 100%;
+        padding-left: 0;
     }
 
     .homefooter .apps-icons i {
@@ -749,12 +740,13 @@ footer .apps-icons i {
 @media screen and (max-width:480px ) {
 
     .logo {
-        font-size: 25px;
+        font-size: 23px;
     }
 
     .checkbtn {
         font-size: 30px;
         padding-right: 5px;
+        padding-top: 10px;
     }
 
    #cover-about h2{
@@ -798,7 +790,6 @@ footer .apps-icons i {
 
     .checkbtn {
         font-size: 18px;
-        padding-top: 37px;
         padding-right: 5px;
     }
 
