@@ -194,5 +194,5 @@ This form was taken from a youtube Tutorial with a few slight changes to make it
 
 
 
-All photos used on throughout the site are used from [  ](https://www.pexels.com/) and [
+All photos used on throughout the site are used from [www.pexels.com  ](https://www.pexels.com/) and [www.upslash.com
 ](https://unsplash.com/)
