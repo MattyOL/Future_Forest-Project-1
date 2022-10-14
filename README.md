@@ -184,6 +184,9 @@ The footer code was also taken from the previously mentioned walkthrough project
 
 The font styles was also taken from love runnibng site which i really liked because its easy to read.
 
+The homepage video , the code used for this is from [w3schools
+](https://www.w3schools.com/tags/tag_video.asp) i used this to get a understanding of how to implement videos onto html,css.
+
 Too make the website more responsive on the navigation on smaller mobile devices i used w3shools to make the hover effect and used code to help with this - [hover effect w3schools
 ](https://www.w3schools.com/cssref/sel_hover.asp)
 
