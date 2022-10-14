@@ -158,13 +158,16 @@ Git was used for version control through the Gitpod terminal.
 
 
 # Deployment
+
+This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
+
 The site was deployed to GitHub pages. The steps to deploy are as follows:
-
 In the GitHub repository, navigate to the Settings tab
-From the source section drop-down menu, select the Main Branch, then click "Save".
-The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-The live link can be found here
+From the source section drop-down menu, select the Master Branch
+Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
+The live link can be found here - [ Future_Forest P1
+](https://mattyol.github.io/Future_Forest-Project-1/)
 # Local Deployment
 In order to make a local copy of this project, you can clone it. In your IDE Terminal, type the following command to clone my repository:
 
@@ -181,19 +184,17 @@ The footer code was also taken from the previously mentioned walkthrough project
 
 The font styles was also taken from love runnibng site which i really liked because its easy to read.
 
-Too make the website more responsive on the navigation on smaller mobile devices i used w3shools to make the hover effect and used code to help with this.[hover effect w3schools
+Too make the website more responsive on the navigation on smaller mobile devices i used w3shools to make the hover effect and used code to help with this - [hover effect w3schools
 ](https://www.w3schools.com/cssref/sel_hover.asp)
 
-I used flexbox to make the website more easier and to make it mote responsive i used a guide from csstrick.com to be able to implement this to suit my site. to create the about and donation page -[flexbox tricks
+I used flexbox to make the website more easier and to make it mote responsive i used a guide from csstrick.com to be able to implement this to suit my site. to create the about and donation page - [flexbox tricks
 ](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-Yhe code was taken from 3wschools.com to make the slide show responsive with a few slight changes to fit the site.[slideshow
+The code was taken from 3wschools.com to make the slide show responsive with a few slight changes to fit the site -[slideshow
 ](https://www.w3schools.com/howto/howto_js_slideshow.asp)
+
 This form was taken from a youtube Tutorial with a few slight changes to make it more suited towards the overall look my Website - [FORM tutorial
 ](https://youtu.be/-1oE7CWweIE)
-
-
-
 
 
 All photos used on throughout the site are used from [www.pexels.com  ](https://www.pexels.com/) and [www.upslash.com
