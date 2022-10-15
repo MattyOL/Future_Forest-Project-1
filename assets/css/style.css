@@ -117,7 +117,7 @@ nav ul li a {
     margin-right: 40px;
     cursor: pointer;
     display: none;
-    padding-top: 32px;
+    padding-top: 10px;
 }
 
 ul {
@@ -746,6 +746,10 @@ footer .apps-icons i {
       
     }
 
+    .checkbtnh {
+        font-size: 30px;
+    }
+
    #cover-about h2{
         font-size: 1em;
     }
@@ -792,9 +796,9 @@ footer .apps-icons i {
     }
 
     .checkbtn {
-        font-size: 18px;
+       
         padding-right: 5px;
-        padding-top: 37px;
+        padding-top: 10px;
     }
 
     #cover-about h2 {
