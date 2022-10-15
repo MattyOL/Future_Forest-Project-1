@@ -1,8 +1,8 @@
 # Future_Forest / My-first-project1
 
-* This is a website For Eco friendly enthusiast's,a small newly non-profit organisation indepented group trying to make a big impact to deforestation globally. The goal for the company is too spread awarness and too create eco friendly areas for our future to come by recieving donation's & volunteer groups.
+This is a website For Eco friendly enthusiast's,a small newly non-profit organisation indepented group trying to make a big impact to deforestation globally. The goal for the company is too spread awarness and too create eco friendly areas for our future to come by recieving donation's & volunteer groups.
 
-* The aim of the project is to build an easily navigatable, Responsive website using HTML and CSS.
+ The aim of the project is to build an easily navigatable, Responsive website using HTML and CSS.
 
 # Prototype site 
 * Justinmind.com was used to make the prototype at the beginning
