@@ -177,6 +177,9 @@ Git was used for version control through the Gitpod terminal.
    <img width="495" alt="sign" src="https://user-images.githubusercontent.com/111317260/195993780-02877f00-3dc9-4a7a-8a5b-b786939310b0.png">
   
      <img width="329" alt="Screen Shot 2022-10-15 at 16 05 00" src="https://user-images.githubusercontent.com/111317260/195993834-875e8ef3-fd8f-4d8b-87df-f9ab3efbd29c.png">
+     
+     * Bugs left to fix 
+       I would like to come back and figure out what is causing the issues with the performance and others that are color orange and to fix these to   make the results better.
 
 
 
