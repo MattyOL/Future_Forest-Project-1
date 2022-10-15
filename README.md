@@ -47,7 +47,7 @@ This is a website For Eco friendly enthusiast's,a small newly non-profit organis
 
 # Typography
 
-* I used Google Fonts to select and import the fonts that were used on the site.
+* I used[ Google fonts ](https://fonts.google.com/)to select and import the fonts that were used on the site which where ispired by love running walk through lesson.
 
 
 
@@ -186,7 +186,7 @@ code
 
 * The footer code was also taken from the previously mentioned walkthrough project with some changes added to best suit my project 1.
 
-* The font styles was also taken from love runnibng site which i really liked because its easy to read.
+* The font styles was also taken from love running site which i really liked because its easy to read.
 
 * The homepage video , the code used for this is from [w3schools
 ](https://www.w3schools.com/tags/tag_video.asp) i used this to get a understanding of how to implement videos onto html,css.
