@@ -159,6 +159,24 @@ Git was used for version control through the Gitpod terminal.
 
 * W3C validator was used to test the sites html which passed across all pages with no issues.
 
+* Lighthouse  Accessibility - Dev tools test
+
+  * Home-page <img width="486" alt="home" src="https://user-images.githubusercontent.com/111317260/195993650-5adbe51b-db7f-458b-9a67-2d01209bc0fc.png">
+  
+  * About-page <img width="508" alt="about" src="https://user-images.githubusercontent.com/111317260/195993700-37ffde07-56d9-4ecb-ab2a-f5b87dbe80b9.png">
+  
+  * Donate-page <img width="564" alt="Donate" src="https://user-images.githubusercontent.com/111317260/195993711-dff37c94-6e4c-4d8f-a6ee-83e2f5dd45ff.png">
+  
+  * Gallery-page <img width="491" alt="Gallery" src="https://user-images.githubusercontent.com/111317260/195993762-77fbe45c-a824-42dc-b907-9bad06e1f873.png">
+  
+  * Signup-page <img width="495" alt="sign" src="https://user-images.githubusercontent.com/111317260/195993780-02877f00-3dc9-4a7a-8a5b-b786939310b0.png">
+  
+<img width="329" alt="Screen Shot 2022-10-15 at 16 05 00" src="https://user-images.githubusercontent.com/111317260/195993834-875e8ef3-fd8f-4d8b-87df-f9ab3efbd29c.png">
+
+
+
+
+
 # Deployment
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
