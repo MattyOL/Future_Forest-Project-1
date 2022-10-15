@@ -143,7 +143,7 @@ CSS3 was used to add styling to the site.
 Font Awesome was used to import icons used across the site.
 
 # Google Fonts
-Google Fonts was used for the fonts.
+Google Fonts was used for the fonts
 
 # Github
 Github was used to store the project's code after being pushed from Git.
@@ -154,8 +154,11 @@ Gitpod terminal was used to commit my code using Git and push it to Github.
 
 Git was used for version control through the Gitpod terminal.
 
+# Testing
 
+* jigsaw validator was used to test the sites css which passed with no issues.
 
+* W3C validator was used to test the sites html which passed across all pages with no issues.
 
 # Deployment
 
