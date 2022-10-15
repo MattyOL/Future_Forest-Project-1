@@ -140,10 +140,9 @@ This is a website For Eco friendly enthusiast's,a small newly non-profit organis
 * CSS3 was used to add styling to the site.
 
 # Font Awesome
-Font Awesome was used to import icons used across the site.
+Font Awesome was used to import icons used across the site.[Fontawrsome.com
+](https://fontawesome.com/)
 
-# Google Fonts
-* Google Fonts was used for the fonts
 
 # Github
 Github was used to store the project's code after being pushed from Git.
