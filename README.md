@@ -155,7 +155,7 @@ Git was used for version control through the Gitpod terminal.
 
 # Functionality Testing
 
- When testing my site i used Google chrome & firefox which everything loaded correctly for me i also had my friends and family test it on theres which there was a problem with loading the icon on logo and some probles ith the video not loadign up correctly.
+ When testing my site i used Google chrome & firefox which everything loaded correctly for me ,I also had my friends and family test it on theres which there was a problem with loading the icon on the logo and some problems with the video not loading up correctly. This problem
 
 * Jigsaw validator was used to test the sites css which passed with no issues.
 
