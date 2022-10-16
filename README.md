@@ -155,6 +155,8 @@ Git was used for version control through the Gitpod terminal.
 
 # Functionality Testing
 
+ When testing my site i used Google chrome & firefox which everything loaded correctly for me.
+
 * Jigsaw validator was used to test the sites css which passed with no issues.
 
 * W3C validator was used to test the sites html which passed across all pages with no issues.
@@ -181,7 +183,7 @@ Git was used for version control through the Gitpod terminal.
      * Bugs left to fix 
        I would like to come back and figure out what is causing the issues with the performance and others that are color orange and to fix these to   make the results better.
 
-
+     * There seemed to be a bug with the Logo Icon (Tree) it didnt seem to be loading on some mobile devices , issue unsolved as i had ran out of time and could not find the cause i would like to come back and fix this.
 
 
 
